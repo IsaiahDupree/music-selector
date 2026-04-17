@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/export/batch/route": "app/api/export/batch/route.js",
+  "/api/export/csv/route": "app/api/export/csv/route.js",
+  "/api/export/json/route": "app/api/export/json/route.js",
+  "/api/export/playlist/route": "app/api/export/playlist/route.js",
+  "/api/export/single/route": "app/api/export/single/route.js",
+  "/api/filters/route": "app/api/filters/route.js",
+  "/api/health/route": "app/api/health/route.js",
+  "/api/metadata/extract/route": "app/api/metadata/extract/route.js",
+  "/api/playlists/route": "app/api/playlists/route.js",
+  "/api/search/route": "app/api/search/route.js",
+  "/api/tags/route": "app/api/tags/route.js",
+  "/api/tracks/[id]/route": "app/api/tracks/[id]/route.js",
+  "/api/tracks/route": "app/api/tracks/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/page": "app/page.js"
+}

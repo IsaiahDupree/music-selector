@@ -3,13 +3,8 @@ import { validateAudioFile } from "@/utils/audio-validation";
 import { uploadAudioFile, ensureAudioBucket } from "@/lib/supabase-storage";
 import { supabaseAdmin } from "@/lib/supabase";
 
-export const config = {
-  api: {
-    bodyParser: {
-      sizeLimit: "100mb",
-    },
-  },
-};
+// Max duration for file upload: 300 seconds
+export const maxDuration = 300;
 
 export async function POST(request: NextRequest) {
   try {

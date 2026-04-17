@@ -1,0 +1,19 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/export/batch/route": "/api/export/batch",
+  "/api/export/csv/route": "/api/export/csv",
+  "/api/export/json/route": "/api/export/json",
+  "/api/export/playlist/route": "/api/export/playlist",
+  "/api/export/single/route": "/api/export/single",
+  "/api/filters/route": "/api/filters",
+  "/api/health/route": "/api/health",
+  "/api/metadata/extract/route": "/api/metadata/extract",
+  "/api/playlists/route": "/api/playlists",
+  "/api/search/route": "/api/search",
+  "/api/tags/route": "/api/tags",
+  "/api/tracks/[id]/route": "/api/tracks/[id]",
+  "/api/tracks/route": "/api/tracks",
+  "/api/upload/route": "/api/upload",
+  "/page": "/"
+}

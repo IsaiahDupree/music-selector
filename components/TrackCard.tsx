@@ -72,7 +72,7 @@ export default function TrackCard({
   );
 }
 
-const styles = {
+const styles: Record<string, any> = {
   card: {
     border: "1px solid #ddd",
     borderRadius: "8px",

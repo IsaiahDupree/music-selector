@@ -150,7 +150,7 @@ export default function LibraryView({ onSelectTrack }: LibraryViewProps) {
   );
 }
 
-const styles = {
+const styles: Record<string, any> = {
   container: {
     padding: "20px",
   },

@@ -175,7 +175,7 @@ export default function Home() {
   );
 }
 
-const styles = {
+const styles: Record<string, any> = {
   main: {
     minHeight: "100vh",
     backgroundColor: "#fafafa",

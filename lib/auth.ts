@@ -4,6 +4,9 @@ import { supabaseClient, supabaseAdmin } from "./supabase";
  * Sign up with email and password
  */
 export async function signUp(email: string, password: string) {
+  if (!supabaseClient) {
+    return { success: false, error: "Database not configured" };
+  }
   try {
     const { data, error } = await supabaseClient.auth.signUp({
       email,
@@ -31,6 +34,9 @@ export async function signUp(email: string, password: string) {
  * Sign in with email and password
  */
 export async function signIn(email: string, password: string) {
+  if (!supabaseClient) {
+    return { success: false, error: "Database not configured" };
+  }
   try {
     const { data, error } = await supabaseClient.auth.signInWithPassword({
       email,
@@ -58,6 +64,9 @@ export async function signIn(email: string, password: string) {
  * Sign out current user
  */
 export async function signOut() {
+  if (!supabaseClient) {
+    return { success: false, error: "Database not configured" };
+  }
   try {
     const { error } = await supabaseClient.auth.signOut();
 
@@ -78,6 +87,9 @@ export async function signOut() {
  * Get current user session
  */
 export async function getSession() {
+  if (!supabaseClient) {
+    return { success: false, error: "Database not configured" };
+  }
   try {
     const { data, error } = await supabaseClient.auth.getSession();
 
@@ -129,6 +141,9 @@ export async function verifyToken(token: string) {
  * Reset password
  */
 export async function resetPassword(email: string) {
+  if (!supabaseClient) {
+    return { success: false, error: "Database not configured" };
+  }
   try {
     const { error } = await supabaseClient.auth.resetPasswordForEmail(email);
 

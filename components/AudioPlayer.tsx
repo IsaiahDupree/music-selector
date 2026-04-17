@@ -118,7 +118,7 @@ export default function AudioPlayer({ src, title, artist }: AudioPlayerProps) {
   );
 }
 
-const styles = {
+const styles: Record<string, any> = {
   container: {
     border: "1px solid #ddd",
     borderRadius: "8px",

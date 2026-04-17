@@ -13,16 +13,14 @@ export async function GET(request: NextRequest) {
     // Get unique genres
     const { data: genres, error: genreError } = await supabaseAdmin
       .from("tracks")
-      .select("genre")
-      .not("genre", "is", null)
-      .distinct();
+      .select("genre", { count: "exact" })
+      .not("genre", "is", null);
 
     // Get unique moods
     const { data: moods, error: moodError } = await supabaseAdmin
       .from("tracks")
-      .select("mood")
-      .not("mood", "is", null)
-      .distinct();
+      .select("mood", { count: "exact" })
+      .not("mood", "is", null);
 
     if (genreError || moodError) {
       return NextResponse.json(
