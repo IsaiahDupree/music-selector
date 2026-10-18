@@ -1,0 +1,59 @@
+{
+  "contract": "orion_harmonic_analysis_result_v1",
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/originals/25.wav",
+      "label": "Sour Sides - Kill Them all",
+      "sha256": "46c3d4bc0eb59ed325aefd4e48d2bb3fef7d6b047455be17b4ac1bc4aedb7677",
+      "duration_seconds": 306.294422,
+      "bpm_estimate": 70.025,
+      "bpm_alternatives": [
+        69.837,
+        143.555,
+        92.285
+      ],
+      "tempo_periodicity": 0.749,
+      "beat_offset_seconds": 0.81667,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "A minor",
+      "camelot_estimate": "8A",
+      "key_correlation": 0.7516,
+      "key_separation": 0.0013,
+      "key_alternatives": [
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.751621701547116
+        },
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.7503313323326074
+        },
+        {
+          "key": "C major",
+          "camelot": "8B",
+          "correlation": 0.6110161260833036
+        }
+      ],
+      "rms_dbfs": -6.182,
+      "chroma": [
+        0.09549950912300978,
+        0.058944365340545216,
+        0.08098339857013669,
+        0.0580457182572578,
+        0.10991350039289263,
+        0.0696655028860784,
+        0.06887695588515448,
+        0.09872119716417392,
+        0.07886418723020451,
+        0.10691252980440147,
+        0.07586895461761688,
+        0.09770418072852824
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    }
+  ],
+  "rights_verified": false
+}

@@ -1,0 +1,74 @@
+{
+  "contract": "djlab_backend_source_validation_v1",
+  "observed_at": "2026-10-15T04:19:51.546070+00:00",
+  "scope": "Source and ephemeral actual-loopback integration only; no durable server/browser/provider started",
+  "tests": {
+    "command": "python3 -m unittest djlab.tests.test_backend -v",
+    "passed": 10,
+    "failed": 0,
+    "skipped": 0,
+    "actual_catalog_tracks": 91,
+    "actual_captured_metadata_files": 19,
+    "actual_http_media_test": "257 bytes compared with recovered source audio; separate real copied audio mtime/symlink rejection"
+  },
+  "checks": {
+    "python_compile_passed": true,
+    "git_diff_check_passed": true,
+    "gitleaks_djlab_findings": 0,
+    "gitleaks_docs_findings": 0
+  },
+  "limits": [
+    "No claim of live browser verification",
+    "No fresh waveform, energy or harmonic analysis",
+    "No actual DJ application import certification",
+    "No DSP or media encoding on Mac",
+    "Full source audio hashes were not recomputed"
+  ],
+  "files": [
+    {
+      "path": "djlab/__init__.py",
+      "bytes": 85,
+      "sha256": "ed89cf845bf927c5a9d3325cf05d2d8c54bebcb9bd861b63a68fc1f7ec095b22"
+    },
+    {
+      "path": "djlab/__main__.py",
+      "bytes": 3309,
+      "sha256": "2544d14c3dddbe086d99dc2976efc2f525e298dc99498fc0f3ff6b4293e65b94"
+    },
+    {
+      "path": "djlab/evidence.py",
+      "bytes": 6841,
+      "sha256": "b66bf6f75a50a473e299dad95019fb822aac2e46e977692c2ff26661eea9842f"
+    },
+    {
+      "path": "djlab/library.py",
+      "bytes": 11184,
+      "sha256": "963133dd03e08c8e3e76fe4616f1253b18e44cdef845d27b634ae2c05de0bb12"
+    },
+    {
+      "path": "djlab/server.py",
+      "bytes": 16331,
+      "sha256": "a0e197e9cd1498fc80c1091228a5bcd0b6e96c3e7c898cb534236e8caa193c4e"
+    },
+    {
+      "path": "djlab/tests/__init__.py",
+      "bytes": 68,
+      "sha256": "2eaee00b55d140c6a4e5c96932f06cb3f1049963adf02c862220d61e56be9e91"
+    },
+    {
+      "path": "djlab/tests/test_backend.py",
+      "bytes": 11532,
+      "sha256": "93ca1fd1440595528e766fc5c981a592c838069c6bbae6843cf269af637826df"
+    },
+    {
+      "path": "djlab/tests/evidence/evidence-manifest.json",
+      "bytes": 4844,
+      "sha256": "a3c77c95a6e7a2196eed3dfd12b182fb6b2f69cf927b1f20d22a38a7d901c141"
+    },
+    {
+      "path": "docs/djlab/BACKEND.md",
+      "bytes": 7441,
+      "sha256": "3e65b0b3d6de04345cd3b06ee607ecfb9e509d63d395f8c3c17e2739c213f55e"
+    }
+  ]
+}

@@ -1,0 +1,1273 @@
+{
+  "contract": "orion_harmonic_analysis_result_v1",
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/originals/01.wav",
+      "label": "01 adore vs leaves(1)",
+      "sha256": "6881dabe87a539f67526850904601cf2d18b7783bbd7264bce925cc763e2343f",
+      "duration_seconds": 158.427302,
+      "bpm_estimate": 60.989,
+      "bpm_alternatives": [
+        61.523,
+        123.047,
+        80.75
+      ],
+      "tempo_periodicity": 0.7438,
+      "beat_offset_seconds": 0.93767,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "A major",
+      "camelot_estimate": "11B",
+      "key_correlation": 0.7527,
+      "key_separation": 0.0076,
+      "key_alternatives": [
+        {
+          "key": "A major",
+          "camelot": "11B",
+          "correlation": 0.7527271902657093
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.745167277420161
+        },
+        {
+          "key": "F# minor",
+          "camelot": "11A",
+          "correlation": 0.5615500999987302
+        }
+      ],
+      "rms_dbfs": -7.846,
+      "chroma": [
+        0.06190420942025041,
+        0.1104879935365179,
+        0.16055670195094124,
+        0.0638208112636041,
+        0.11350962765094648,
+        0.06051739121783495,
+        0.0944994300410525,
+        0.047229295734089474,
+        0.06259348690419644,
+        0.11367000614244299,
+        0.046334987727526825,
+        0.0648760584105967
+      ],
+      "analysis_duration_seconds": 158.4273015873016,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/02.wav",
+      "label": "2016 cram bam ",
+      "sha256": "159a8b2c802390c4107bce3d80906a00ea9ac699155db9a5b9cc678e1a9e7d8f",
+      "duration_seconds": 182.714286,
+      "bpm_estimate": 139.492,
+      "bpm_alternatives": [
+        135.999,
+        69.837,
+        92.285
+      ],
+      "tempo_periodicity": 0.7088,
+      "beat_offset_seconds": 0.3058,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "G major",
+      "camelot_estimate": "9B",
+      "key_correlation": 0.5576,
+      "key_separation": 0.0793,
+      "key_alternatives": [
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.5575809346461329
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.4782573332139204
+        },
+        {
+          "key": "G minor",
+          "camelot": "6A",
+          "correlation": 0.4446382356641183
+        }
+      ],
+      "rms_dbfs": -5.778,
+      "chroma": [
+        0.06755580472050322,
+        0.06222399117530076,
+        0.08605384783808095,
+        0.06575992825904863,
+        0.07607976433509987,
+        0.0795830532762829,
+        0.07947960493734346,
+        0.10978635636736223,
+        0.08924023484268097,
+        0.10040075248242222,
+        0.08635922915320465,
+        0.09747743261267011
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/03.wav",
+      "label": "DAF_5",
+      "sha256": "383d7616a91b5a652811bbb7aa22c04b98a1167e0ccba8a869e30be549df4e9f",
+      "duration_seconds": 294.870544,
+      "bpm_estimate": 69.957,
+      "bpm_alternatives": [
+        69.837,
+        135.999,
+        92.285
+      ],
+      "tempo_periodicity": 0.6545,
+      "beat_offset_seconds": 0.75046,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "E minor",
+      "camelot_estimate": "9A",
+      "key_correlation": 0.6286,
+      "key_separation": 0.0472,
+      "key_alternatives": [
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.628598876327973
+        },
+        {
+          "key": "E major",
+          "camelot": "12B",
+          "correlation": 0.5814268428229991
+        },
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.5632466008504875
+        }
+      ],
+      "rms_dbfs": -5.829,
+      "chroma": [
+        0.07001897556184808,
+        0.05497283170620581,
+        0.0650724652776561,
+        0.05726334289644049,
+        0.11480247794123434,
+        0.07942282774016077,
+        0.07586046872747902,
+        0.09974350263484212,
+        0.08604690412420508,
+        0.11389747634761761,
+        0.08367916384529145,
+        0.0992195631970191
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/04.mp3",
+      "label": "FUCK ME vip",
+      "sha256": "152aecfdc16c25813b6b902e22683c1e837dfe19b60c9861e3ed7d33ad9d1380",
+      "duration_seconds": 198.92245,
+      "bpm_estimate": 138.83,
+      "bpm_alternatives": [
+        135.999,
+        69.837
+      ],
+      "tempo_periodicity": 0.4723,
+      "beat_offset_seconds": 0.31401,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "G minor",
+      "camelot_estimate": "6A",
+      "key_correlation": 0.4167,
+      "key_separation": 0.131,
+      "key_alternatives": [
+        {
+          "key": "G minor",
+          "camelot": "6A",
+          "correlation": 0.41674839010020226
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.2857096954333392
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.1975316400921913
+        }
+      ],
+      "rms_dbfs": -3.698,
+      "chroma": [
+        0.05621516815419727,
+        0.057149055782906764,
+        0.07405614956252546,
+        0.05888505353690483,
+        0.07290971152955737,
+        0.08060820285887423,
+        0.08963275985913545,
+        0.11184694730590698,
+        0.10010218180092996,
+        0.10822962112015712,
+        0.10373527815908777,
+        0.0866298703298168
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/05.mp3",
+      "label": "Kill them all full",
+      "sha256": "2e3a5b886afe5189da86d2e0b6a8ee40365bf51d5ad2089b30700b90268a74af",
+      "duration_seconds": 332.664,
+      "bpm_estimate": 70.032,
+      "bpm_alternatives": [
+        69.837,
+        143.555,
+        92.285
+      ],
+      "tempo_periodicity": 0.7563,
+      "beat_offset_seconds": 0.02008,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "A minor",
+      "camelot_estimate": "8A",
+      "key_correlation": 0.759,
+      "key_separation": 0.0124,
+      "key_alternatives": [
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.758961659667096
+        },
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.7465839142893418
+        },
+        {
+          "key": "C major",
+          "camelot": "8B",
+          "correlation": 0.6180590011368515
+        }
+      ],
+      "rms_dbfs": -5.576,
+      "chroma": [
+        0.09613692861204132,
+        0.05829965681231987,
+        0.08090035049825005,
+        0.05778255036643653,
+        0.11035293420493533,
+        0.06960396744007376,
+        0.06830096394092737,
+        0.0990963907442808,
+        0.0789422975903565,
+        0.10772358835072961,
+        0.07548882433282633,
+        0.09737154710682253
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/06.mp3",
+      "label": "Memories masterd",
+      "sha256": "10d0cdcd651e517b24a3927d38b4572f390b4a1c3e47945ca044629b54068e1c",
+      "duration_seconds": 222.981225,
+      "bpm_estimate": 69.958,
+      "bpm_alternatives": [
+        69.837,
+        135.999,
+        95.703
+      ],
+      "tempo_periodicity": 0.6336,
+      "beat_offset_seconds": 0.79736,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "E minor",
+      "camelot_estimate": "9A",
+      "key_correlation": 0.7002,
+      "key_separation": 0.0907,
+      "key_alternatives": [
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.7002394165412728
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.6095248249929792
+        },
+        {
+          "key": "B minor",
+          "camelot": "10A",
+          "correlation": 0.5442653032026461
+        }
+      ],
+      "rms_dbfs": -8.728,
+      "chroma": [
+        0.08236509583907803,
+        0.057452523987445867,
+        0.06817666284690883,
+        0.05881771924999569,
+        0.09489465198289579,
+        0.055740078518558424,
+        0.08668692405763606,
+        0.11406718669070133,
+        0.07727620723875255,
+        0.10189716218754882,
+        0.07753364003149633,
+        0.12509214736898228
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/07.mp3",
+      "label": "good start_6",
+      "sha256": "f05783a5abf92edd1ba77e3d570537949a0262213ac29e0a5ae74b4d1f112215",
+      "duration_seconds": 22.674275,
+      "bpm_estimate": 142.618,
+      "bpm_alternatives": [
+        143.555,
+        69.837,
+        95.703
+      ],
+      "tempo_periodicity": 0.4622,
+      "beat_offset_seconds": 0.03287,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "A minor",
+      "camelot_estimate": "8A",
+      "key_correlation": 0.3648,
+      "key_separation": 0.0642,
+      "key_alternatives": [
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.3647779781445139
+        },
+        {
+          "key": "B minor",
+          "camelot": "10A",
+          "correlation": 0.3006182050628107
+        },
+        {
+          "key": "E major",
+          "camelot": "12B",
+          "correlation": 0.22700529924608234
+        }
+      ],
+      "rms_dbfs": -7.871,
+      "chroma": [
+        0.08855310664242232,
+        0.0652962924724225,
+        0.08177300375330913,
+        0.06949078014035392,
+        0.0775968910340732,
+        0.06851333321238531,
+        0.07698417804385677,
+        0.07835303313944424,
+        0.08956362652504808,
+        0.10022591266413584,
+        0.10023578759047384,
+        0.10341405478207487
+      ],
+      "analysis_duration_seconds": 22.674285714285713,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/08.wav",
+      "label": "grey skies 9",
+      "sha256": "4a6ed33a73b238fccbebda7b92b16b0638b7b57c115deb5409dbb37515de0bdb",
+      "duration_seconds": 230.475,
+      "bpm_estimate": 74.944,
+      "bpm_alternatives": [
+        76.0,
+        151.999
+      ],
+      "tempo_periodicity": 0.7638,
+      "beat_offset_seconds": 0.67551,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "A minor",
+      "camelot_estimate": "8A",
+      "key_correlation": 0.8092,
+      "key_separation": 0.2101,
+      "key_alternatives": [
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.8091929663658133
+        },
+        {
+          "key": "C major",
+          "camelot": "8B",
+          "correlation": 0.5990684598155962
+        },
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.5902329963732803
+        }
+      ],
+      "rms_dbfs": -4.097,
+      "chroma": [
+        0.09145329863871565,
+        0.06815320253853566,
+        0.08318365189407373,
+        0.06550539653403609,
+        0.09867576222819673,
+        0.07791537714890158,
+        0.07333839163513652,
+        0.08931359810231014,
+        0.08142777364525244,
+        0.10028429281253842,
+        0.08455024430925016,
+        0.08619901051305287
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/09.wav",
+      "label": "happy holloweend_8",
+      "sha256": "74f370edd2718efe17ab0edc3e1c823066fba1aac421106e1647813212a3256c",
+      "duration_seconds": 254.900862,
+      "bpm_estimate": 147.702,
+      "bpm_alternatives": [
+        151.999,
+        71.777,
+        99.384
+      ],
+      "tempo_periodicity": 0.61,
+      "beat_offset_seconds": 0.19042,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "D major",
+      "camelot_estimate": "10B",
+      "key_correlation": 0.6555,
+      "key_separation": 0.1528,
+      "key_alternatives": [
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.6554714728319987
+        },
+        {
+          "key": "F# minor",
+          "camelot": "11A",
+          "correlation": 0.5027168799502708
+        },
+        {
+          "key": "A major",
+          "camelot": "11B",
+          "correlation": 0.42393352218275226
+        }
+      ],
+      "rms_dbfs": -3.572,
+      "chroma": [
+        0.06961330833092207,
+        0.06959915737689122,
+        0.1030411886562556,
+        0.06573057025261628,
+        0.08142507670796474,
+        0.07769323036357281,
+        0.09432661517385692,
+        0.07434505548823758,
+        0.09638058896210536,
+        0.09943072042401141,
+        0.08942916527812694,
+        0.07898532298543907
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/10.mp3",
+      "label": "i want that bass",
+      "sha256": "2b84bfb44f3a3481ed78425a0a09e95203e4201c48f9dcca11263c62f9336034",
+      "duration_seconds": 76.2253,
+      "bpm_estimate": 72.511,
+      "bpm_alternatives": [
+        71.777,
+        107.666
+      ],
+      "tempo_periodicity": 0.772,
+      "beat_offset_seconds": 0.80807,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "Bb major",
+      "camelot_estimate": "6B",
+      "key_correlation": 0.3233,
+      "key_separation": 0.029,
+      "key_alternatives": [
+        {
+          "key": "Bb major",
+          "camelot": "6B",
+          "correlation": 0.3233078149078655
+        },
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.2942597619249877
+        },
+        {
+          "key": "G minor",
+          "camelot": "6A",
+          "correlation": 0.23887457625987352
+        }
+      ],
+      "rms_dbfs": -8.958,
+      "chroma": [
+        0.07384300407560536,
+        0.06195829040574004,
+        0.07906809616861861,
+        0.0760186732689989,
+        0.08898624636604022,
+        0.08126075155383256,
+        0.08000779266445884,
+        0.08117334586967877,
+        0.08250446370032914,
+        0.09905827267992037,
+        0.10480588959895626,
+        0.09131517364782092
+      ],
+      "analysis_duration_seconds": 76.22530612244898,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/11.mp3",
+      "label": "infinite posiblities_7",
+      "sha256": "77765ff4a5c77590c2ce9ab8d6a4f3155a7ae24cfb0589ba02f86f2bfefbdc6f",
+      "duration_seconds": 180.7151,
+      "bpm_estimate": 158.987,
+      "bpm_alternatives": [
+        161.499,
+        107.666,
+        64.6,
+        80.75
+      ],
+      "tempo_periodicity": 0.7366,
+      "beat_offset_seconds": 0.02654,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "G major",
+      "camelot_estimate": "9B",
+      "key_correlation": 0.7718,
+      "key_separation": 0.001,
+      "key_alternatives": [
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.7717565967175948
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.7707365340213062
+        },
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.6105315471784682
+        }
+      ],
+      "rms_dbfs": -3.186,
+      "chroma": [
+        0.0714578641583593,
+        0.04637034138459815,
+        0.11315391537372638,
+        0.05191966559365147,
+        0.09909488605971035,
+        0.05484935082043012,
+        0.07854180944569357,
+        0.11435193651576622,
+        0.07767062868334886,
+        0.11556843629233625,
+        0.06688164674838985,
+        0.11013951892398947
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/12.wav",
+      "label": "isosceles pyramid",
+      "sha256": "991d7c7baf288bbb26396dfe8ad4ef15cad614cae95864e8b0703fed33ec3933",
+      "duration_seconds": 205.723208,
+      "bpm_estimate": 140.983,
+      "bpm_alternatives": [
+        143.555,
+        92.285,
+        69.837
+      ],
+      "tempo_periodicity": 0.4029,
+      "beat_offset_seconds": 0.0266,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "F# minor",
+      "camelot_estimate": "11A",
+      "key_correlation": 0.742,
+      "key_separation": 0.2049,
+      "key_alternatives": [
+        {
+          "key": "F# minor",
+          "camelot": "11A",
+          "correlation": 0.7419845844929646
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.5371168212554683
+        },
+        {
+          "key": "A major",
+          "camelot": "11B",
+          "correlation": 0.48162771940297006
+        }
+      ],
+      "rms_dbfs": -4.874,
+      "chroma": [
+        0.06608018725811886,
+        0.08120510025392823,
+        0.0842048675804522,
+        0.06690874856130631,
+        0.08380166546033492,
+        0.0776355359150825,
+        0.10309726998593721,
+        0.0877290344469515,
+        0.09336786181826254,
+        0.09873403638590386,
+        0.0819871157637741,
+        0.07524857656994777
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/13.mp3",
+      "label": "kill TV",
+      "sha256": "15e8642c1c6e7e0b309773de3854758381c7a2d510fcaeaf9ef98b1597ca4d66",
+      "duration_seconds": 288.07835,
+      "bpm_estimate": 161.558,
+      "bpm_alternatives": [
+        161.499,
+        86.133
+      ],
+      "tempo_periodicity": 0.4735,
+      "beat_offset_seconds": 0.08124,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "G minor",
+      "camelot_estimate": "6A",
+      "key_correlation": 0.4319,
+      "key_separation": 0.0259,
+      "key_alternatives": [
+        {
+          "key": "G minor",
+          "camelot": "6A",
+          "correlation": 0.431867762119796
+        },
+        {
+          "key": "Ab minor",
+          "camelot": "1A",
+          "correlation": 0.4059709511367214
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.2930288117368042
+        }
+      ],
+      "rms_dbfs": -10.113,
+      "chroma": [
+        0.07104801130051643,
+        0.06911118809827833,
+        0.08552501927416072,
+        0.08201981476022695,
+        0.08236849466662145,
+        0.07067465413131212,
+        0.07774887074224167,
+        0.09289385335861974,
+        0.09249282976283126,
+        0.08993530589760064,
+        0.09468535143031259,
+        0.0914966065772781
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/14.mp3",
+      "label": "knife no mod",
+      "sha256": "f5933cd6feb36f8c98d2b913a4d614193879cc56b0b7e4dfb675d38df381de7a",
+      "duration_seconds": 85.4204,
+      "bpm_estimate": 70.014,
+      "bpm_alternatives": [
+        69.837,
+        143.555,
+        95.703
+      ],
+      "tempo_periodicity": 0.9102,
+      "beat_offset_seconds": 0.84358,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "E minor",
+      "camelot_estimate": "9A",
+      "key_correlation": 0.8288,
+      "key_separation": 0.1569,
+      "key_alternatives": [
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.8287793383916123
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.6718706297831633
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.5843664767231905
+        }
+      ],
+      "rms_dbfs": -9.303,
+      "chroma": [
+        0.07868908470872056,
+        0.0508166323263763,
+        0.09620327493834535,
+        0.048700156366016496,
+        0.12925285179540316,
+        0.05598872638144632,
+        0.07949385397038686,
+        0.10824146705941479,
+        0.07736880642980994,
+        0.10671827928892179,
+        0.06340043534250363,
+        0.1051264313926548
+      ],
+      "analysis_duration_seconds": 85.42040816326531,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/15.wav",
+      "label": "know you master",
+      "sha256": "8019cefd9b0e9984ef28fe25f74610c093a09188abce8741dba735837f452ae3",
+      "duration_seconds": 225.543104,
+      "bpm_estimate": 72.427,
+      "bpm_alternatives": [
+        71.777,
+        143.555,
+        95.703
+      ],
+      "tempo_periodicity": 0.5962,
+      "beat_offset_seconds": 0.29124,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "A minor",
+      "camelot_estimate": "8A",
+      "key_correlation": 0.6673,
+      "key_separation": 0.0721,
+      "key_alternatives": [
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.6673448730769732
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.5952812160355495
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.5648059897426942
+        }
+      ],
+      "rms_dbfs": -12.123,
+      "chroma": [
+        0.08007526229379783,
+        0.0597212210504379,
+        0.09554914134591826,
+        0.059822772105109515,
+        0.08812502092113457,
+        0.08230901089676163,
+        0.07031171183391884,
+        0.10872459526340934,
+        0.08104398960950421,
+        0.12124185760662988,
+        0.07902680447922483,
+        0.07404861259415321
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/16.wav",
+      "label": "merger_6",
+      "sha256": "1357893cb8632fad94d11f79fc134266855618069aef37df3c767af9c0118784",
+      "duration_seconds": 137.160708,
+      "bpm_estimate": 69.992,
+      "bpm_alternatives": [
+        69.837,
+        143.555,
+        92.285
+      ],
+      "tempo_periodicity": 0.8008,
+      "beat_offset_seconds": 0.80366,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "E minor",
+      "camelot_estimate": "9A",
+      "key_correlation": 0.7672,
+      "key_separation": 0.0871,
+      "key_alternatives": [
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.7672364736094365
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.6801290803928433
+        },
+        {
+          "key": "B minor",
+          "camelot": "10A",
+          "correlation": 0.6577586880279911
+        }
+      ],
+      "rms_dbfs": -15.072,
+      "chroma": [
+        0.07810902392440669,
+        0.05429247788084117,
+        0.09816218222693035,
+        0.06439971003438213,
+        0.10777280300921643,
+        0.0671374702089839,
+        0.08321163444280613,
+        0.09499305910949357,
+        0.07293114417133688,
+        0.09565288510312492,
+        0.07303010891445942,
+        0.1103075009740184
+      ],
+      "analysis_duration_seconds": 137.16072562358278,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/17.wav",
+      "label": "move for me atmospheric",
+      "sha256": "720534caab1828894ddfc92427af3b17652b40494596085e68204ad608801605",
+      "duration_seconds": 130.517854,
+      "bpm_estimate": 93.238,
+      "bpm_alternatives": [
+        92.285,
+        184.57
+      ],
+      "tempo_periodicity": 0.4534,
+      "beat_offset_seconds": 0.32678,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "C minor",
+      "camelot_estimate": "5A",
+      "key_correlation": 0.8596,
+      "key_separation": 0.2457,
+      "key_alternatives": [
+        {
+          "key": "C minor",
+          "camelot": "5A",
+          "correlation": 0.8596191372254548
+        },
+        {
+          "key": "Eb major",
+          "camelot": "5B",
+          "correlation": 0.6138981026603326
+        },
+        {
+          "key": "Ab major",
+          "camelot": "4B",
+          "correlation": 0.598540035628132
+        }
+      ],
+      "rms_dbfs": -10.026,
+      "chroma": [
+        0.13141099498176786,
+        0.07102973793158313,
+        0.06944388099209213,
+        0.08956689322533709,
+        0.05785236434130818,
+        0.07793431508194054,
+        0.060469450962419104,
+        0.10852721161186397,
+        0.10377855926586103,
+        0.06136205749299953,
+        0.09904336653620147,
+        0.06958116757662597
+      ],
+      "analysis_duration_seconds": 130.51791383219955,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/18.wav",
+      "label": "mylove_15",
+      "sha256": "175acb187f1930f60444940cd9e7a643a4cc18bf7ba72e6cc51328da7fd27005",
+      "duration_seconds": 275.151792,
+      "bpm_estimate": 69.943,
+      "bpm_alternatives": [
+        69.837,
+        135.999,
+        92.285
+      ],
+      "tempo_periodicity": 0.8048,
+      "beat_offset_seconds": 0.7171,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "D minor",
+      "camelot_estimate": "7A",
+      "key_correlation": 0.7421,
+      "key_separation": 0.1239,
+      "key_alternatives": [
+        {
+          "key": "D minor",
+          "camelot": "7A",
+          "correlation": 0.742144277075224
+        },
+        {
+          "key": "G minor",
+          "camelot": "6A",
+          "correlation": 0.6182189568361024
+        },
+        {
+          "key": "F major",
+          "camelot": "7B",
+          "correlation": 0.5878740752508352
+        }
+      ],
+      "rms_dbfs": -7.968,
+      "chroma": [
+        0.08286533043453301,
+        0.05460483778999874,
+        0.10514966585298445,
+        0.06672485378205786,
+        0.0773014189953087,
+        0.0906593718203723,
+        0.07585943066115867,
+        0.09472287342685294,
+        0.0769319832798896,
+        0.10286294532166454,
+        0.09729334968001999,
+        0.07502393895515921
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/19.wav",
+      "label": "mymind_6",
+      "sha256": "231d310d6b4e540d6493b31df8f5d32b8d4bbe11f269fc6dd36b78fb6fceae75",
+      "duration_seconds": 285.4375,
+      "bpm_estimate": 70.014,
+      "bpm_alternatives": [
+        69.837,
+        143.555,
+        89.103
+      ],
+      "tempo_periodicity": 0.6818,
+      "beat_offset_seconds": 0.8235,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "F minor",
+      "camelot_estimate": "4A",
+      "key_correlation": 0.7524,
+      "key_separation": 0.1473,
+      "key_alternatives": [
+        {
+          "key": "F minor",
+          "camelot": "4A",
+          "correlation": 0.7523568626034122
+        },
+        {
+          "key": "F major",
+          "camelot": "7B",
+          "correlation": 0.6050288865126839
+        },
+        {
+          "key": "Bb major",
+          "camelot": "6B",
+          "correlation": 0.5071112855337114
+        }
+      ],
+      "rms_dbfs": -8.071,
+      "chroma": [
+        0.07893805311162437,
+        0.06622713430540653,
+        0.058925842287404565,
+        0.08192037105676589,
+        0.09842089293445534,
+        0.15792346071918292,
+        0.06375704039704472,
+        0.06008187729923529,
+        0.09589818980010956,
+        0.07302204320737819,
+        0.10488309573429597,
+        0.06000199914709667
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/20.wav",
+      "label": "new house faded_5",
+      "sha256": "2a0d7cc83048be7a8b163753d692fdf955b8dbd6ca0670422d1b48ff11bb6d4b",
+      "duration_seconds": 154.303563,
+      "bpm_estimate": 69.894,
+      "bpm_alternatives": [
+        69.837,
+        135.999,
+        92.285
+      ],
+      "tempo_periodicity": 0.6502,
+      "beat_offset_seconds": 0.67066,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "B minor",
+      "camelot_estimate": "10A",
+      "key_correlation": 0.5988,
+      "key_separation": 0.1587,
+      "key_alternatives": [
+        {
+          "key": "B minor",
+          "camelot": "10A",
+          "correlation": 0.5987807008008849
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.4400777284657566
+        },
+        {
+          "key": "E major",
+          "camelot": "12B",
+          "correlation": 0.38544748155124836
+        }
+      ],
+      "rms_dbfs": -10.925,
+      "chroma": [
+        0.0730553535167064,
+        0.06046211302294165,
+        0.08165253271561454,
+        0.0659925585341053,
+        0.08359433349257148,
+        0.06865966894601694,
+        0.08714123413945232,
+        0.08623316197237653,
+        0.07899503512648073,
+        0.10568839045637113,
+        0.09360941344570083,
+        0.11491620463166216
+      ],
+      "analysis_duration_seconds": 154.30358276643992,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/21.wav",
+      "label": "oreo remix_5",
+      "sha256": "fbad7c35a00176c498d5ee9f6705d0d6cc0206e16dafa10e7fde3871b5d2f359",
+      "duration_seconds": 281.516803,
+      "bpm_estimate": 74.92,
+      "bpm_alternatives": [
+        76.0,
+        103.359
+      ],
+      "tempo_periodicity": 0.8044,
+      "beat_offset_seconds": 0.29406,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "Ab minor",
+      "camelot_estimate": "1A",
+      "key_correlation": 0.621,
+      "key_separation": 0.0597,
+      "key_alternatives": [
+        {
+          "key": "Ab minor",
+          "camelot": "1A",
+          "correlation": 0.6209973002255597
+        },
+        {
+          "key": "B major",
+          "camelot": "1B",
+          "correlation": 0.5612813392826146
+        },
+        {
+          "key": "Eb minor",
+          "camelot": "2A",
+          "correlation": 0.4764330865800885
+        }
+      ],
+      "rms_dbfs": -5.485,
+      "chroma": [
+        0.05922388587227191,
+        0.06371954977702557,
+        0.06973323517127772,
+        0.08206389496033761,
+        0.08232100781358348,
+        0.07525249485202436,
+        0.10182718427142899,
+        0.07501040852101998,
+        0.105398091946874,
+        0.0829666627720546,
+        0.10362599308444417,
+        0.09885759095765763
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/22.wav",
+      "label": "where do the monsters go clip",
+      "sha256": "3794d7275de65321dcb5a5bc88a6900f53a1460ed4398b8fe61a95e1956f45e2",
+      "duration_seconds": 117.232154,
+      "bpm_estimate": 140.491,
+      "bpm_alternatives": [
+        143.555,
+        69.837,
+        92.285
+      ],
+      "tempo_periodicity": 0.482,
+      "beat_offset_seconds": 0.06006,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "E minor",
+      "camelot_estimate": "9A",
+      "key_correlation": 0.6187,
+      "key_separation": 0.0148,
+      "key_alternatives": [
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.6187302329890944
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.6039034978729779
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.5409064783935191
+        }
+      ],
+      "rms_dbfs": -5.892,
+      "chroma": [
+        0.06879745124660984,
+        0.052673890300127944,
+        0.08230518185394213,
+        0.056524555437844064,
+        0.09702527795910643,
+        0.05836121217194423,
+        0.07815335763250676,
+        0.1113576488596043,
+        0.08427451640895547,
+        0.11906871286874623,
+        0.07190066450088922,
+        0.11955753075972338
+      ],
+      "analysis_duration_seconds": 117.23219954648526,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/23.mp3",
+      "label": "where do the monsters go_2",
+      "sha256": "9e9f40a391a4c3f107a547d9e5dafb93f088c02288110d16d49b44d59bbf35df",
+      "duration_seconds": 69.30285,
+      "bpm_estimate": 69.86,
+      "bpm_alternatives": [
+        69.837,
+        143.555,
+        95.703
+      ],
+      "tempo_periodicity": 0.5633,
+      "beat_offset_seconds": 0.79847,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "E minor",
+      "camelot_estimate": "9A",
+      "key_correlation": 0.5958,
+      "key_separation": 0.0159,
+      "key_alternatives": [
+        {
+          "key": "E minor",
+          "camelot": "9A",
+          "correlation": 0.5957910444801459
+        },
+        {
+          "key": "D major",
+          "camelot": "10B",
+          "correlation": 0.5798861705532374
+        },
+        {
+          "key": "G major",
+          "camelot": "9B",
+          "correlation": 0.5392609631091061
+        }
+      ],
+      "rms_dbfs": -7.34,
+      "chroma": [
+        0.06322558495943416,
+        0.05213622880189226,
+        0.08620625013329547,
+        0.05468584268677117,
+        0.10435008395541873,
+        0.05687167028125863,
+        0.07543849290889233,
+        0.10525167871136816,
+        0.08483530530496501,
+        0.12616372702163134,
+        0.07302848501761036,
+        0.11780665021746241
+      ],
+      "analysis_duration_seconds": 69.30285714285715,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    },
+    {
+      "input_id": "sour-sides-audio/originals/24.wav",
+      "label": "wonder remix_3",
+      "sha256": "58b3f02b015bb4d21a0898f4590aee0a724d1ab4656905b627e5642de9229154",
+      "duration_seconds": 236.580363,
+      "bpm_estimate": 139.922,
+      "bpm_alternatives": [
+        143.555,
+        69.837,
+        92.285
+      ],
+      "tempo_periodicity": 0.7805,
+      "beat_offset_seconds": 0.32161,
+      "phrase_alignment": "inferred_32_beat_grid_not_verified_downbeats",
+      "key_estimate": "A minor",
+      "camelot_estimate": "8A",
+      "key_correlation": 0.772,
+      "key_separation": 0.0112,
+      "key_alternatives": [
+        {
+          "key": "A minor",
+          "camelot": "8A",
+          "correlation": 0.7720364758602878
+        },
+        {
+          "key": "D minor",
+          "camelot": "7A",
+          "correlation": 0.7608392887380617
+        },
+        {
+          "key": "F major",
+          "camelot": "7B",
+          "correlation": 0.7108916411524661
+        }
+      ],
+      "rms_dbfs": -5.997,
+      "chroma": [
+        0.09760775680610176,
+        0.059620682350918955,
+        0.10543334407720205,
+        0.057105314626716794,
+        0.08282327570527444,
+        0.09700156221587557,
+        0.07078765668252068,
+        0.07813112299414735,
+        0.07033968601605713,
+        0.1286091266106272,
+        0.08943113954651885,
+        0.0631093323680392
+      ],
+      "analysis_duration_seconds": 180.0,
+      "confidence_note": "Heuristic scores, not calibrated probabilities; percussion-heavy/atonal audio and half-time grids require listening."
+    }
+  ],
+  "rights_verified": false
+}

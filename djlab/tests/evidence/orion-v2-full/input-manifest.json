@@ -1,0 +1,12 @@
+{
+  "contract": "orion_harmonic_analysis_v2",
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/originals/01.wav",
+      "sha256": "6881dabe87a539f67526850904601cf2d18b7783bbd7264bce925cc763e2343f",
+      "label": "01 adore vs leaves(1)"
+    }
+  ],
+  "coverage_mode": "full",
+  "max_seconds": 1800
+}

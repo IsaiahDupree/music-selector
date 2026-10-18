@@ -1,0 +1,58 @@
+{
+  "recorded_at": "2026-10-15T04:30:30.088708+00:00",
+  "scope": "real_single_public_metadata_request_and_offline_actual_evidence_tests",
+  "source_files": {
+    "djlab/research.py": {
+      "sha256": "f51b695065405bb74da2e95695d7806b2ccfb25c8dc72b4c511cb9349eaf0c60",
+      "bytes": 15760
+    },
+    "djlab/tests/test_research.py": {
+      "sha256": "de8e580bef672140dc77c274aa6cadf876b3991c70c09646adb9c4448e9a2318",
+      "bytes": 6614
+    },
+    "djlab/tests/evidence/musicbrainz-preach-20261015.json": {
+      "sha256": "31aa84c5be3f1621892cb719fee8caf4c837c226c1c32c91c1eff5ddd3ac3129",
+      "bytes": 3124
+    },
+    "docs/djlab/RESEARCH.md": {
+      "sha256": "aa2be85ab5d0d2c5542fa411f5613f1ba2abd6ff3c8a094d2817f7088c46b4ff",
+      "bytes": 4401
+    }
+  },
+  "actual_lookup": {
+    "track_id": "trk_94c9be58415240bc6ab5b6b2",
+    "source_sha256": "94c9be58415240bc6ab5b6b2e63020468d3a40a2eb5fbd26a67fb9d5c0409b25",
+    "request_url": "https://musicbrainz.org/ws/2/recording?query=recording%3A%22Preach%22+AND+artist%3A%22Leotrix%22&fmt=json&limit=5",
+    "http_status": 200,
+    "retrieved_at": "2026-10-15T04:28:27.020819+00:00",
+    "raw_response_sha256": "38d86e6c7040cf0fc66f02911b82db6f134e233c432e1e4a1d6efc1e0491ba2e",
+    "raw_response_bytes": 1709,
+    "candidate_count": 1,
+    "evidence_sha256": "31aa84c5be3f1621892cb719fee8caf4c837c226c1c32c91c1eff5ddd3ac3129",
+    "executed_module_sha256": "c3c13d09c0e09015af590d0e149bb198f5d27fb53f9a877c3d555353d277f9f7",
+    "network_attempts": 1,
+    "audio_uploaded": false,
+    "verified_match": false
+  },
+  "subsequent_source_change": "Added completion-based next-request timestamp; transport/query unchanged. No second external request made.",
+  "cache_replay": {
+    "cached": true,
+    "bytes_unchanged": true,
+    "external_requests": 0
+  },
+  "validation": {
+    "command": "python3 -m unittest djlab.tests.test_research -v",
+    "passed": 8,
+    "failed": 0,
+    "skipped": 0,
+    "mock_provider": false,
+    "network_requests_in_tests": 0
+  },
+  "not_exercised": [
+    "live provider rate limit",
+    "live oversized response",
+    "live redirect",
+    "live timeout"
+  ],
+  "commit_deployment_claimed": false
+}
