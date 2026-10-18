@@ -1,0 +1,59 @@
+{
+  "version": "2.0",
+  "description": "Music selector library — copy this to library.json and populate with your tracks",
+  "last_updated": "YYYY-MM-DD",
+  "tracks_dir": "tracks",
+  "tracks": [
+    {
+      "id": "my-track-slug",
+      "title": "Track Title",
+      "artist": "Artist Name",
+      "local_path": "tracks/my-track.mp3",
+      "genre": "lofi",
+      "subgenres": ["chillhop"],
+      "mood": "calm",
+      "moods": ["calm", "relaxed", "focused"],
+      "energy_level": 0.4,
+      "tempo": "slow",
+      "bpm": 85,
+      "duration_sec": 180,
+      "source": "personal_library",
+      "license": "free_use",
+      "is_trending": false,
+      "platforms_trending": [],
+      "suitable_for": ["tutorial", "background", "dev_vlog"],
+      "scene_fit": ["repos", "metrics"],
+      "usage_count": 0
+    }
+  ],
+  "content_type_map": {
+    "viral_short":  { "preferred_genres": ["hip_hop", "electronic", "pop", "house"], "energy_range": [0.7, 1.0], "moods": ["energetic", "uplifting", "happy"] },
+    "reels":        { "preferred_genres": ["pop", "hip_hop", "house", "electronic"], "energy_range": [0.6, 1.0], "moods": ["energetic", "uplifting", "happy"] },
+    "tutorial":     { "preferred_genres": ["lofi", "ambient", "cinematic"], "energy_range": [0.2, 0.5], "moods": ["calm", "focused"] },
+    "educational":  { "preferred_genres": ["lofi", "ambient", "motivational"], "energy_range": [0.3, 0.6], "moods": ["calm", "inspiring", "focused"] },
+    "product_demo": { "preferred_genres": ["electronic", "corporate", "motivational", "cinematic"], "energy_range": [0.5, 0.8], "moods": ["uplifting", "inspiring", "professional"] },
+    "dev_vlog":     { "preferred_genres": ["electronic", "lofi", "house", "hip_hop"], "energy_range": [0.4, 0.9], "moods": ["focused", "energetic", "chill"] },
+    "storytelling": { "preferred_genres": ["cinematic", "ambient", "motivational"], "energy_range": [0.4, 0.8], "moods": ["inspiring", "emotional", "dramatic"] },
+    "brand":        { "preferred_genres": ["cinematic", "corporate", "motivational", "house"], "energy_range": [0.5, 0.8], "moods": ["inspiring", "uplifting", "professional"] },
+    "montage":      { "preferred_genres": ["electronic", "hip_hop", "house", "pop"], "energy_range": [0.6, 1.0], "moods": ["energetic", "uplifting"] },
+    "shorts":       { "preferred_genres": ["hip_hop", "electronic", "pop"], "energy_range": [0.7, 1.0], "moods": ["energetic", "upbeat"] },
+    "background":   { "preferred_genres": ["ambient", "lofi", "cinematic"], "energy_range": [0.1, 0.5], "moods": ["calm", "peaceful", "neutral"] }
+  },
+  "platform_map": {
+    "instagram": ["reels", "viral_short", "lifestyle"],
+    "tiktok":    ["viral_short", "shorts", "montage"],
+    "youtube":   ["dev_vlog", "tutorial", "educational", "product_demo"],
+    "linkedin":  ["brand", "product_demo", "storytelling"],
+    "twitter":   ["viral_short", "reels"],
+    "facebook":  ["brand", "lifestyle", "storytelling"]
+  },
+  "mood_compatibility": {
+    "energetic": ["uplifting", "upbeat", "happy", "powerful", "confident"],
+    "calm":      ["relaxed", "peaceful", "focused", "chill", "neutral"],
+    "inspiring": ["uplifting", "hopeful", "emotional", "cinematic"],
+    "dramatic":  ["intense", "epic", "powerful", "cinematic"],
+    "uplifting": ["happy", "positive", "inspiring", "energetic"],
+    "happy":     ["upbeat", "positive", "bright", "uplifting"],
+    "focused":   ["calm", "chill", "creative", "relaxed"]
+  }
+}

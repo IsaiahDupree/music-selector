@@ -1,0 +1,51 @@
+# ─── Audio files — do NOT commit your music library ──────────────────────────
+tracks/*.mp3
+tracks/*.aac
+tracks/*.wav
+tracks/*.flac
+tracks/*.ogg
+tracks/*.m4a
+tracks/*.opus
+
+# Keep the placeholder so git tracks the empty directory
+!tracks/.gitkeep
+
+# Subdirectory downloads (e.g. tracks/downloads/)
+tracks/downloads/
+tracks/imports/
+
+# ─── Personal library overrides ───────────────────────────────────────────────
+# Use library.local.json for machine-specific paths (Supabase URLs, abs paths)
+# and keep library.json clean/relative for sharing
+library.local.json
+.env
+.env.*
+*.env
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+.venv/
+venv/
+env/
+
+# ─── Node ─────────────────────────────────────────────────────────────────────
+node_modules/
+.npm
+*.log
+
+# ─── IDE / OS ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
