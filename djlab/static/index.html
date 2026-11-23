@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Sour Sides DJ Lab</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a href="#library" class="skip">Skip to library</a>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Sour Sides DJ Lab home"><img class="brand-logo" src="/logo.png" width="46" height="46" alt="Sour Sides logo"><span>SOUR SIDES <b>DJ LAB</b><small>YOUR MUSIC. YOUR NEXT MOVE.</small></span></a>
+    <div class="top-status"><span id="connection" class="status-dot">Connecting</span><span class="pill">LOCAL LIBRARY</span><button id="refresh" class="quiet" title="Refresh library and service status">↻ <span>Refresh</span></button></div>
+  </header>
+  <div id="alert" class="alert" role="alert" hidden></div>
+  <div id="notice" class="notice" role="status" aria-live="polite"></div>
+  <div class="workspace">
+    <aside class="sidebar" aria-label="Library navigation">
+      <p class="eyebrow">THE COLLECTION</p>
+      <button id="all-tracks" class="nav-item active"><span>◈ &nbsp; All tracks</span><span id="all-count" class="count">—</span></button>
+      <div class="section-heading"><h2>Crates & playlists</h2><button id="new-playlist" class="icon-button" aria-label="Create a playlist">＋</button></div>
+      <div id="playlists" class="playlist-nav"><p class="muted small">Loading collections…</p></div>
+      <div class="sidebar-bottom">
+        <p class="eyebrow">ANALYSIS ENGINE</p>
+        <div id="orion-status" class="engine-state">Checking Orion…</div>
+        <p class="small muted">Playback stays in your browser. Analysis and mix rendering run on Orion.</p>
+        <button id="open-plan" class="accent full">Build a mix plan <span>↗</span></button>
+        <button id="keyboard-help" class="quiet full">Keyboard shortcuts</button>
+      </div>
+    </aside>
+    <main id="library" class="library" tabindex="-1">
+      <div class="library-heading"><div><p class="eyebrow">DIG IN. FIND THE CONNECTION.</p><h1 id="library-title">All tracks<span class="acid">.</span></h1><p id="library-subtitle" class="muted">Loading your actual music library…</p></div><div class="export-control"><label class="sr-only" for="export-format">Export format</label><select id="export-format"><option value="csv">CSV</option><option value="json">JSON</option><option value="m3u8">M3U8</option><option value="xspf">XSPF</option><option value="rekordbox">Rekordbox XML</option></select><button id="export" class="outline">Export ↗</button></div></div>
+      <div class="search-row"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Find a track, artist, or tag…" autocomplete="off" aria-label="Search library"><kbd>/</kbd></label><button id="filters-toggle" class="outline" aria-expanded="true" aria-controls="filters">Filters <span id="filter-count"></span></button></div>
+      <div id="filters" class="filters">
+        <label>Key<select id="filter-key"><option value="">Every key</option></select></label>
+        <label>BPM from<input id="bpm-min" type="number" min="20" max="400" step="0.1" placeholder="Any"></label>
+        <label>to<input id="bpm-max" type="number" min="20" max="400" step="0.1" placeholder="Any"></label>
+        <label>Energy<select id="filter-energy"><option value="">All measured levels</option><option value="low">Lower third</option><option value="mid">Middle third</option><option value="high">Upper third</option><option value="unknown">Not measured</option></select></label>
+        <label>Review<select id="filter-review"><option value="">All tracks</option><option value="unreviewed">Needs listening review</option><option value="reviewed">Manually reviewed</option><option value="uncertain">Close key alternatives</option></select></label>
+        <label>Source<select id="filter-source"><option value="">All sources</option></select></label>
+        <button id="clear-filters" class="quiet">Reset</button>
+      </div>
+      <div class="table-toolbar"><span id="result-count" aria-live="polite">Loading…</span><div><label class="sr-only" for="sort">Sort tracks</label><select id="sort"><option value="title">Title A–Z</option><option value="artist">Artist A–Z</option><option value="bpm">BPM ascending</option><option value="key">Camelot key</option><option value="duration">Duration</option><option value="energy">Measured energy</option><option value="playlist">Playlist order</option></select><button id="edit-playlist" class="quiet" hidden>Edit collection</button></div></div>
+      <div class="table-scroll"><table><thead><tr><th scope="col" class="number-col">#</th><th scope="col">Track / artist</th><th scope="col">Key</th><th scope="col">BPM</th><th scope="col">Duration</th><th scope="col">Energy</th><th scope="col"><span class="sr-only">Load deck</span></th></tr></thead><tbody id="track-rows"><tr><td colspan="7" class="empty">Loading tracks…</td></tr></tbody></table></div>
+      <section class="recommendations" aria-labelledby="recommend-title"><div class="section-heading"><div><p class="eyebrow">KEEP THE FLOW</p><h2 id="recommend-title">Your next connection</h2></div><span class="pill">EXPLAINABLE MATCHES</span></div><p id="recommend-context" class="muted small">Select a track to explore compatible next tracks and mashup candidates.</p><div id="recommendations" class="recommendation-grid"></div></section>
+    </main>
+    <aside id="inspector" class="inspector" aria-label="Track details"><div class="inspector-empty"><span class="empty-symbol" aria-hidden="true">↯</span><h2>Find your next spark.</h2><p>Select a track to inspect its key, timing, provenance, and cue points.</p><p class="small muted">Algorithmic estimates are labeled. Your corrections stay separate from the original analysis.</p></div></aside>
+  </div>
+  <footer class="mixer" aria-label="Two-deck preview mixer">
+    <section class="deck" id="deck-a" aria-label="Deck A"><div class="deck-top"><span class="deck-badge">A</span><div><strong id="deck-a-title">Load a track</strong><span id="deck-a-meta" class="muted small">Select a track, then press A</span></div><button class="quiet deck-focus" data-deck="a" title="Choose Deck A for keyboard control" aria-pressed="true">Focus</button></div><audio id="audio-a" preload="metadata"></audio><div class="deck-transport"><button id="play-a" class="play" aria-label="Play Deck A" disabled>▶</button><span id="time-a" class="time">0:00 / 0:00</span><input id="seek-a" type="range" min="0" max="1" step="0.01" value="0" aria-label="Deck A position" disabled></div><div class="deck-controls"><label>Tempo <input id="rate-a" type="range" min="0.5" max="1.5" step="0.001" value="1" disabled><output id="rate-a-value">1.000×</output></label><button id="reset-rate-a" class="quiet small" disabled>Reset</button><button id="loop-a" class="outline small" aria-pressed="false" disabled>Loop off</button><select id="cue-a" aria-label="Deck A saved cues" disabled><option value="">Cues</option></select></div></section>
+    <section class="crossfade"><p class="eyebrow">PREVIEW MIXER</p><button id="sync-tempo" class="outline small" disabled>Match B tempo to A</button><label for="crossfader" class="cross-label"><b>A</b><span>Equal power · 3 dB headroom</span><b>B</b></label><input id="crossfader" type="range" min="-1" max="1" step="0.01" value="0" aria-label="Crossfader, left Deck A, right Deck B"><label class="master">Master <input id="master" type="range" min="0" max="1" step="0.01" value="0.65" aria-label="Master volume"></label><p class="small muted">Pitch-preserving tempo when supported.<br>No independent pitch or stem separation.</p></section>
+    <section class="deck" id="deck-b" aria-label="Deck B"><div class="deck-top"><span class="deck-badge b">B</span><div><strong id="deck-b-title">Load a track</strong><span id="deck-b-meta" class="muted small">Select a track, then press B</span></div><button class="quiet deck-focus" data-deck="b" title="Choose Deck B for keyboard control" aria-pressed="false">Focus</button></div><audio id="audio-b" preload="metadata"></audio><div class="deck-transport"><button id="play-b" class="play" aria-label="Play Deck B" disabled>▶</button><span id="time-b" class="time">0:00 / 0:00</span><input id="seek-b" type="range" min="0" max="1" step="0.01" value="0" aria-label="Deck B position" disabled></div><div class="deck-controls"><label>Tempo <input id="rate-b" type="range" min="0.5" max="1.5" step="0.001" value="1" disabled><output id="rate-b-value">1.000×</output></label><button id="reset-rate-b" class="quiet small" disabled>Reset</button><button id="loop-b" class="outline small" aria-pressed="false" disabled>Loop off</button><select id="cue-b" aria-label="Deck B saved cues" disabled><option value="">Cues</option></select></div></section>
+  </footer>
+  <dialog id="modal" aria-labelledby="modal-title"><div class="modal-heading"><h2 id="modal-title"></h2><button id="modal-close" class="icon-button" aria-label="Close dialog">×</button></div><div id="modal-content"></div></dialog>
+</body>
+</html>
