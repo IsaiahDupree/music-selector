@@ -12,7 +12,8 @@ from .server import Server, capabilities, prepare_launch
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('command',choices=['import','import-analysis','status','serve','launch','export'])
-    parser.add_argument('--studio-root',type=Path,default=Path.home()/'Documents/Software/sour-sides-studio')
+    studio_root = os.environ.get('DJLAB_STUDIO_ROOT')
+    parser.add_argument('--studio-root',type=Path,default=Path(studio_root).expanduser() if studio_root else None)
     parser.add_argument('--state-dir',type=Path,default=Path.home()/'Library/Application Support/DJLab')
     parser.add_argument('--port',type=int,default=5572)
     parser.add_argument('--format',choices=['json','csv','m3u8','xspf','rekordbox'],default='json')
@@ -26,6 +27,8 @@ def main():
     args=parser.parse_args()
     if args.command=='launch':
         print(json.dumps({'launch_file':str(prepare_launch(args.state_dir,args.port)),'expires_in_seconds':600}));return
+    if args.studio_root is None:
+        parser.error('Set DJLAB_STUDIO_ROOT or pass --studio-root for the configured media library.')
     catalog=import_catalog(args.studio_root)
     lib=Library(catalog,args.state_dir)
     if args.command=='import-analysis':

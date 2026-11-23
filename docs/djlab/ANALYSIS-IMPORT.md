@@ -17,7 +17,7 @@ byte count and SHA remain, and the importer never claims it retained those bytes
 
 ```sh
 python3 -m djlab import-analysis \
-  --studio-root /Users/isaiahdupree/Documents/Software/sour-sides-studio \
+  --studio-root /absolute/path/to/configured-studio \
   --state-dir "$HOME/Library/Application Support/SourSidesDJLab" \
   --evidence-dir /absolute/path/to/actual-collected-job \
   --collection-receipt-sha256 "$REVIEWED_COLLECTION_SHA" \

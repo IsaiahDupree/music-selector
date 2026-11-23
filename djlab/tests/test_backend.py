@@ -14,7 +14,7 @@ from djlab.evidence import CAPTURE, Invalid, digest, import_catalog
 from djlab.library import Library
 from djlab.server import Server, prepare_launch
 
-STUDIO=Path(os.environ.get('DJLAB_REAL_STUDIO_ROOT',str(Path.home()/'Documents/Software/sour-sides-studio')))
+STUDIO=os.environ.get('DJLAB_REAL_STUDIO_ROOT')
 
 
 class EvidenceTests(unittest.TestCase):
@@ -70,7 +70,9 @@ class RealHTTPTests(unittest.TestCase):
         # This positive byte-stream test requires the actual recovered catalog.
         # It fails clearly if the owner's source is not mounted; no synthetic
         # track, fake media or skipped positive is substituted.
-        cls.catalog=import_catalog(STUDIO)
+        if not STUDIO:
+            raise RuntimeError('Set DJLAB_REAL_STUDIO_ROOT to the configured real source library.')
+        cls.catalog=import_catalog(Path(STUDIO).expanduser())
 
     def setUp(self):
         self.temp=tempfile.TemporaryDirectory();self.state=Path(self.temp.name).resolve()
