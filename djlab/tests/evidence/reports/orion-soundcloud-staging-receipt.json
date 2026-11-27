@@ -1,0 +1,337 @@
+{
+  "status": "verified",
+  "inputs": [
+    {
+      "input_id": "sour-sides-audio/soundcloud/01.mp3",
+      "sha256": "832c56daff6d22c845ae008a0566a1c314348289b123a12aa5a87c18ab6bac46",
+      "bytes": 13254625
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/02.mp3",
+      "sha256": "cb58447656cc9555d5c7112333cae79498473ba53f4637e544fb67edf2e77769",
+      "bytes": 6143485
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/03.mp3",
+      "sha256": "148f72a3d32f8f4c0a5936b4590ebabc87b576d71e22a90718877ac47724da3d",
+      "bytes": 2395261
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/04.mp3",
+      "sha256": "0c04c6e30ba529838a2aee11cf86fd714a0e03d819dfa338f02bbe965debfa88",
+      "bytes": 6552841
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/05.mp3",
+      "sha256": "c0dee9eb00903c4b47a1359603e2c3e646bc453b80b56919dd11a8ff4b18e73e",
+      "bytes": 3304335
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/06.mp3",
+      "sha256": "cbf954cf32127c81e76d04f6dddcd92b7192894fd0304f68d43a77d990f47610",
+      "bytes": 4162346
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/07.mp3",
+      "sha256": "4df9b3260a4c43a2f7fdec215068a9e8f6622bbc19eba3ae0821a5cdf55c3663",
+      "bytes": 6112020
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/08.mp3",
+      "sha256": "6a4ff6e4a444b67ae772e34e3c298ffea91bcd20007d810e492684dcecdd44a9",
+      "bytes": 5494670
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/09.mp3",
+      "sha256": "39dd1df5dcec5c506f383900aec722457e69cf6ff54e0bbacd4acb8c5f11b44e",
+      "bytes": 112300749
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/10.mp3",
+      "sha256": "3cc922ac1057b4c71965e0594c55acd24118c9cc1a9cb839bcaa306414cb6791",
+      "bytes": 120102198
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/11.mp3",
+      "sha256": "c3366290019adbfca2745d0d268dca8590793888de80e28fb984f3b718fd57fe",
+      "bytes": 7149208
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/12.mp3",
+      "sha256": "836a3ba28cc827604da6c0b2f7e9422150cc0effd8f5251df364768c271741eb",
+      "bytes": 34216711
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/13.mp3",
+      "sha256": "830ac9450a8e5515948de014aa7f8733bf40cc6dfdecf0a30086cee3db81408e",
+      "bytes": 59422830
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/14.mp3",
+      "sha256": "87ef950e5daec039e01630da97c06fa5db078fcd64b36185afa2573254566674",
+      "bytes": 12764779
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/15.mp3",
+      "sha256": "da6a20327e34f2b9eb59196c55d7cfd1486c3c147b3faec7741b837efc773115",
+      "bytes": 9946800
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/16.mp3",
+      "sha256": "cbf1368b2ba7cf9e6697a016b3203617f49f9344dcff3e9bf451588d6f65d186",
+      "bytes": 7515068
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/17.mp3",
+      "sha256": "76289559f9edd5350dd2d656c42af012ba8cbe915f3637617742f8b06a93e736",
+      "bytes": 7697816
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/18.mp3",
+      "sha256": "810b881fe05f9ede1cbdbeea9f1774ce288b7e30d321698e59a3e0f966381310",
+      "bytes": 7860545
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/19.mp3",
+      "sha256": "26f6a5c4b1efe12ec5b2b39d87f18c9d17597ac50336dcf6a78266ce8f212afc",
+      "bytes": 7587060
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/20.mp3",
+      "sha256": "808c0d2e4b72cd6f9623e4a907cd8dec8f6b621989bd28a4d5f2a00c35842749",
+      "bytes": 6133390
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/21.mp3",
+      "sha256": "d5e2baa73e54864e7aa4ddf7a1ae855ec71a8363fc9c9d0885b68b0fe56a3426",
+      "bytes": 6949710
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/22.mp3",
+      "sha256": "26408cc7b5f8b05bdf76577ba4b710370babf09329c5ff6bdb69ed0ceabf7029",
+      "bytes": 36597821
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/23.mp3",
+      "sha256": "c4943391f48c7adb2f7ca5fed6da01e77cc91bba2374ef7eeccfb022f09114e1",
+      "bytes": 6479306
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/24.mp3",
+      "sha256": "93ba6c95bb6a9a17aef0e0ccddf87eb48335a25541f69f5829662f5314301b9c",
+      "bytes": 5207557
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/25.mp3",
+      "sha256": "4e9d6fe8d9b0104a7f599d7c4350fc4ab9adb37af166f1b31617606a9a48a359",
+      "bytes": 8224752
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/26.mp3",
+      "sha256": "60e20a1087dfb30dea227c69e72e711137ff774f77e2764970aef87cb09b8b97",
+      "bytes": 10317536
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/27.mp3",
+      "sha256": "d236569f782b2501f37e84fe0594fbb9b92779913c353f9b6c72f4b5fe06e0e8",
+      "bytes": 11669148
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/28.mp3",
+      "sha256": "94c9be58415240bc6ab5b6b2e63020468d3a40a2eb5fbd26a67fb9d5c0409b25",
+      "bytes": 12137727
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/29.mp3",
+      "sha256": "a6c588167524e8985dc51888dd269cbfed56e67545b0bd79370fc86c25db3486",
+      "bytes": 7643519
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/30.mp3",
+      "sha256": "31c43395b2a038d3a05c7b557b576e51f4ad5827ceb194f035bb3b1bb571e558",
+      "bytes": 4865744
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/31.mp3",
+      "sha256": "8778fbf0d4be5b827ad689c1e569c77b66c310836dd96de04cadda68d3aa87e8",
+      "bytes": 8899766
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/32.mp3",
+      "sha256": "cf3db13fb1ec4e20cb1f0bfb52b2f2ba8fbe56d8d4da6377ff445f4f727f7f61",
+      "bytes": 1986428
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/33.mp3",
+      "sha256": "4ee45a7c0b1b1cb0de3faa7700200554599f1778adce4b8ec24b57d7a63d768b",
+      "bytes": 7504869
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/34.mp3",
+      "sha256": "bea9ea1a7b138f015a2e37f6c5503f593499a9a35e7d6ad45dfb1801d1441f5d",
+      "bytes": 7959486
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/35.mp3",
+      "sha256": "070abc2489eaa69d9b7a77848df8c1fdb79dd427a8cb6551f535f63bfac8c1ac",
+      "bytes": 5186808
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/36.mp3",
+      "sha256": "ea4572515320da9a3a00ba471f28e147374866983d8b0ae3dfad997ea563ec51",
+      "bytes": 7914440
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/37.mp3",
+      "sha256": "a9dc091b9c4e7a20452cbae9fc132925bbd72b11bd5288da57e2ff55452d46fc",
+      "bytes": 6675832
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/38.mp3",
+      "sha256": "1c8de488219d9230cb1af1120b715d5e7af07078721e32e5633e3d3ebff53708",
+      "bytes": 34179069
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/39.mp3",
+      "sha256": "8049e86609c783a78475059d324ee9314710f2b35665a05331a54672678b7df8",
+      "bytes": 3522419
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/40.mp3",
+      "sha256": "75997c83b735b756405d9c48b7eae53399c4f9c0f215d32addd975cfbac10ea1",
+      "bytes": 7141907
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/41.mp3",
+      "sha256": "9d025640457b075f105d18515fc5bb43e329b8817d1dc2b5783b3f5947ac12d6",
+      "bytes": 7280324
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/42.mp3",
+      "sha256": "84e561119bbdadac9fb09e6a10681f1795dacc30796c1959caa25575e5368625",
+      "bytes": 5328628
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/43.mp3",
+      "sha256": "73949454663622b61be8fcaceb857b59bdcddc9ae0b6e1a9ec024921eba9763f",
+      "bytes": 56775378
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/44.mp3",
+      "sha256": "a1685af01114ca59bc2827d368bbb1728a1909d37f5fc9a1b5c73929d6b22bf1",
+      "bytes": 7572050
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/45.mp3",
+      "sha256": "0f13dabfc6acf3983b1ea7c74eb51b6245c4ef5b53ae2098972da19b78f854ff",
+      "bytes": 23342116
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/46.mp3",
+      "sha256": "10452217b62788fcf85022783d6b367a4828cdf92f520a4aad6187915111eee9",
+      "bytes": 7265428
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/47.mp3",
+      "sha256": "9ce7cb4f3f68402de1c0ea557f0ee1cae0b6c64064729062e1bf6fac89d4ff65",
+      "bytes": 8922109
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/48.mp3",
+      "sha256": "c48df56534e989327030133291d2f6f07f47225c2e888b5826705dda96e52cef",
+      "bytes": 3992613
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/49.mp3",
+      "sha256": "adff080fe96fa9ce8d7516ebcc05a18fdf983330be9c59e45a859dc2ff5de6f2",
+      "bytes": 9805836
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/50.mp3",
+      "sha256": "07026b95adc2b095eea799c0322d0aa88d6d3887fd2c0383434949ea5f337144",
+      "bytes": 2961198
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/51.mp3",
+      "sha256": "b2711542afc5b37296dab887bb3f2001a4fc44d638eea84007e3745a5582c391",
+      "bytes": 7097836
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/52.mp3",
+      "sha256": "5e4dae7a5b89ac9d3eff63d5c409542fd2953defbaf264e2f8f79daaef375026",
+      "bytes": 7481726
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/53.mp3",
+      "sha256": "ac6001677d452990c34f4a62b86267f41a15ae571cb715c9dff7f7b066f687d0",
+      "bytes": 9453092
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/54.mp3",
+      "sha256": "1596270006bda68905d63532b7c769c068375aced135dbefd173ce6124f2f210",
+      "bytes": 4392161
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/55.mp3",
+      "sha256": "a8f165e420c4e1f427d302aab98070e81e74320bdc0736ba7f336cb2593b6d5f",
+      "bytes": 37993664
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/56.mp3",
+      "sha256": "11c37b7b138be5ee50a31fa26a20ffc6d077440d63f9ef3d48770625d0cfa23e",
+      "bytes": 2152414
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/57.mp3",
+      "sha256": "14d4d4f56bca623a99c1d065c6cbb5d96928f28fa2934868c235b87c9d198e0d",
+      "bytes": 18312971
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/58.mp3",
+      "sha256": "2c8d36681506e7503d89704540d1c3d39b66159f66a23f743bc0ebaab596858e",
+      "bytes": 8012455
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/59.mp3",
+      "sha256": "f9bfc949c2aafffe884719e1dcd4fbbc2bdb78c62e86c3ae9978eb5178a91301",
+      "bytes": 3926052
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/60.mp3",
+      "sha256": "db14acd4d489aa4fe5fc16b21a8105e5c4b151887d183d8c907ef3505eacaf2a",
+      "bytes": 5945967
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/61.mp3",
+      "sha256": "f185a2bcd9983f08ca4681608e93fe3fcbc8f761e16291f3a04adc3ec99d8ff3",
+      "bytes": 5278616
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/62.mp3",
+      "sha256": "0f90df679e2141d75638d3f6a6d25e10f24f9be5d030658d814c41e3bbd44e4b",
+      "bytes": 7093184
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/63.mp3",
+      "sha256": "6e1e8be76c99132646d1759d0dd994329b26fcb711dcc92928a8fdeae1c36f1b",
+      "bytes": 6214425
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/64.mp3",
+      "sha256": "537851e243570a10217c7168c38bdb1fe2e98e1c6efed846cb6329c1f2171dce",
+      "bytes": 6520664
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/65.mp3",
+      "sha256": "cda5e6fac76d95866964939c9ef029e42b27e9ab05e671202b96c6fb546c670a",
+      "bytes": 41872648
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/66.mp3",
+      "sha256": "e4c6f484d40762a1c9c5b0725211ca3bdb477cd3bcd5d8076a2e6d7a860482a5",
+      "bytes": 2024169
+    }
+  ],
+  "rights_verified": false,
+  "publication_allowed": false
+}

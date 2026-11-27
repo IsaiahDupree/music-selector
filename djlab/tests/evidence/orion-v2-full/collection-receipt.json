@@ -1,0 +1,157 @@
+{
+  "job_id": "wrk_885c133b02304c39953f8a2d4d374278",
+  "collected_at": "2026-10-15T15:48:38.940246+00:00",
+  "method": "authenticated_live_status_and_artifacts_plus_exact_owned_job_files_over_ssh",
+  "files": [
+    {
+      "path": "artifacts-api.json",
+      "bytes": 3537,
+      "sha256": "1d5ba803c84bae9c9d799f067d93b800787803e600655c5e18095e3217f8e00e"
+    },
+    {
+      "path": "audio-v2-config.json",
+      "bytes": 3429,
+      "sha256": "9010f5a8f83e4f43605e25042be83d1aa3433eaf06ef2ddc037d4521ab62090d"
+    },
+    {
+      "path": "input-manifest.json",
+      "bytes": 306,
+      "sha256": "813a5e3d652bf09e3444e5eba931e8e128116cc8279d51c9b919a4015eab24d6"
+    },
+    {
+      "path": "job.json",
+      "bytes": 10754,
+      "sha256": "a59e6baa322eba2b141bef6c2a6722c918053a027fd9ba5bb8dfe846f8a60ecf"
+    },
+    {
+      "path": "out/analysis-progress.json",
+      "bytes": 165,
+      "sha256": "1947128187c50fd3498df5a85d8e30636583571a12ff7ff2c32dada3c13370cd"
+    },
+    {
+      "path": "out/analysis.json",
+      "bytes": 143871,
+      "sha256": "17f3cab2fcda8b500471aafbcbaafbe4cace36ea37c8387ad211ffe6a89f9d85"
+    },
+    {
+      "path": "out/commands.json",
+      "bytes": 6477,
+      "sha256": "5861e684a7c61f18a32a0f6a9d15eb197d7492fea764e00c07e9a5e03ca5713e"
+    },
+    {
+      "path": "out/execution-result.json",
+      "bytes": 2400,
+      "sha256": "78a4c1607ad36f326c254ea3637dcb29473687121f8f667baa026920158c5402"
+    },
+    {
+      "path": "out/ffmpeg-version.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/ffmpeg-version.stdout",
+      "bytes": 1479,
+      "sha256": "f0d11220d4773bb6a4338eaee8c3defd2d09dea7f841066656186ae96ec39f7c"
+    },
+    {
+      "path": "out/ffprobe-version.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/ffprobe-version.stdout",
+      "bytes": 1480,
+      "sha256": "06b341e975a3930b0120971bcf971f9fa051171b96167ef6ced0953d17c094e0"
+    },
+    {
+      "path": "out/manifest.json",
+      "bytes": 5955,
+      "sha256": "df45ab6da398a754d2d5d22de5788951c7849b5795590352c8fb3d44e776a258"
+    },
+    {
+      "path": "out/runtime-files.json",
+      "bytes": 340057,
+      "sha256": "cece9d7e1533018b2b09ea4138590f29100472db3be9845389bfe8d7e575dbb6"
+    },
+    {
+      "path": "out/track-01-probe.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/track-01-probe.stdout",
+      "bytes": 1955,
+      "sha256": "20a7e973ef5d747bff4dec492cb0ce96980908e6a1f26278af556862a0b889fe"
+    },
+    {
+      "path": "out/track-01-progress.json",
+      "bytes": 17649,
+      "sha256": "c7a35ddbb697962b76a84387fe5b28e8b3b3aa9cfa403ee6a80aedf990f045a2"
+    },
+    {
+      "path": "out/track-01-result.json",
+      "bytes": 141461,
+      "sha256": "c13e2ec173546b90e68e48e84fb2b25c458e8f922b4ff21e4758efbcd3a64d79"
+    },
+    {
+      "path": "out/track-01-window-001.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/track-01-window-002.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/track-01-window-003.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/track-01-window-004.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/track-01-window-005.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "out/track-01-window-006.stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "source-evidence/audio_process_guard.py",
+      "bytes": 3010,
+      "sha256": "fe67d2b55581e543b7b5c381ae344f24fc2a42920494da4b037fee7d9776ab97"
+    },
+    {
+      "path": "source-evidence/harmonic_audio.py",
+      "bytes": 19465,
+      "sha256": "60b4db28d1228abe9278acc4628bd1bd1e1d59280ba0d24f111cc18382056334"
+    },
+    {
+      "path": "source-evidence/harmonic_audio_v2.py",
+      "bytes": 25164,
+      "sha256": "88c8a26cf25cbd429cd5edec4e962a390be78b33c3669481ba747f93ad87bb54"
+    },
+    {
+      "path": "status-api.json",
+      "bytes": 11796,
+      "sha256": "37bafd44b78cd59157f6f8cad5975b60f813f011267e8a1dfc9253c5570a16f8"
+    },
+    {
+      "path": "stderr.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "stdout.log",
+      "bytes": 520,
+      "sha256": "e79377e258bb2311cc2a14bceceb020ce34c6ae96086735022340938bfa6b962"
+    }
+  ]
+}

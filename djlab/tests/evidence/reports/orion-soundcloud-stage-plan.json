@@ -1,0 +1,601 @@
+{
+  "source_root": "/Volumes/My Passport/soundcloud_likes",
+  "target_input_root": "E:/orion-jobs/media-workers/inputs",
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/soundcloud/01.mp3",
+      "sha256": "832c56daff6d22c845ae008a0566a1c314348289b123a12aa5a87c18ab6bac46",
+      "label": "AENSO - RQUNY - COME SELEKTA (AENSO REMIX)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/AENSO - RQUNY - COME SELEKTA (AENSO REMIX).mp3",
+      "source_bytes": 13254625,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/02.mp3",
+      "sha256": "cb58447656cc9555d5c7112333cae79498473ba53f4637e544fb67edf2e77769",
+      "label": "Automhate - AUTOMHATE - HEAT VISION",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Automhate - AUTOMHATE - HEAT VISION.mp3",
+      "source_bytes": 6143485,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/03.mp3",
+      "sha256": "148f72a3d32f8f4c0a5936b4590ebabc87b576d71e22a90718877ac47724da3d",
+      "label": "Aweminus - Leotrix - Hive Bounce (Aweminus Remix) [Patreon]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Aweminus - Leotrix - Hive Bounce (Aweminus Remix) [Patreon].mp3",
+      "source_bytes": 2395261,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/04.mp3",
+      "sha256": "0c04c6e30ba529838a2aee11cf86fd714a0e03d819dfa338f02bbe965debfa88",
+      "label": "BAHAMUT - UP THE JAM [FREE DOWNLOAD]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/BAHAMUT - UP THE JAM [FREE DOWNLOAD].mp3",
+      "source_bytes": 6552841,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/05.mp3",
+      "sha256": "c0dee9eb00903c4b47a1359603e2c3e646bc453b80b56919dd11a8ff4b18e73e",
+      "label": "BANNED WRLD RADIO - DD01252026 045",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/BANNED WRLD RADIO - DD01252026 045.mp3",
+      "source_bytes": 3304335,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/06.mp3",
+      "sha256": "cbf954cf32127c81e76d04f6dddcd92b7192894fd0304f68d43a77d990f47610",
+      "label": "BEEGURTT - Two pump chump [FREE DL]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/BEEGURTT - Two pump chump [FREE DL].mp3",
+      "source_bytes": 4162346,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/07.mp3",
+      "sha256": "4df9b3260a4c43a2f7fdec215068a9e8f6622bbc19eba3ae0821a5cdf55c3663",
+      "label": "Beat Intelligence Network - Akeos - Injury Detail",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Beat Intelligence Network - Akeos - Injury Detail.mp3",
+      "source_bytes": 6112020,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/08.mp3",
+      "sha256": "6a4ff6e4a444b67ae772e34e3c298ffea91bcd20007d810e492684dcecdd44a9",
+      "label": "Blankface - BLANKFACE - DOG PUKE",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Blankface - BLANKFACE - DOG PUKE.mp3",
+      "source_bytes": 5494670,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/09.mp3",
+      "sha256": "39dd1df5dcec5c506f383900aec722457e69cf6ff54e0bbacd4acb8c5f11b44e",
+      "label": "Breathworkz - Breathworkz Live @ SoundHaven 2025",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Breathworkz - Breathworkz Live @ SoundHaven 2025.mp3",
+      "source_bytes": 112300749,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/10.mp3",
+      "sha256": "3cc922ac1057b4c71965e0594c55acd24118c9cc1a9cb839bcaa306414cb6791",
+      "label": "CÅARL - CÅARL @ CYBE LAUNCH PARTY - SALOON, TOKYO",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/CÅARL - CÅARL @ CYBE LAUNCH PARTY - SALOON, TOKYO.mp3",
+      "source_bytes": 120102198,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/11.mp3",
+      "sha256": "c3366290019adbfca2745d0d268dca8590793888de80e28fb984f3b718fd57fe",
+      "label": "Decimate - Decimate - Off The Rails",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Decimate - Decimate - Off The Rails.mp3",
+      "source_bytes": 7149208,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/12.mp3",
+      "sha256": "836a3ba28cc827604da6c0b2f7e9422150cc0effd8f5251df364768c271741eb",
+      "label": "Devath - 2026 SHOWCASE",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Devath - 2026 SHOWCASE.mp3",
+      "source_bytes": 34216711,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/13.mp3",
+      "sha256": "830ac9450a8e5515948de014aa7f8733bf40cc6dfdecf0a30086cee3db81408e",
+      "label": "Dubstep FBI - SUBFILTRONIK - Riot Control Radio 142",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Dubstep FBI - SUBFILTRONIK - Riot Control Radio 142.mp3",
+      "source_bytes": 59422830,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/14.mp3",
+      "sha256": "87ef950e5daec039e01630da97c06fa5db078fcd64b36185afa2573254566674",
+      "label": "Emplexx - Kill 'em with Moe",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Emplexx - Kill 'em with Moe.mp3",
+      "source_bytes": 12764779,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/15.mp3",
+      "sha256": "da6a20327e34f2b9eb59196c55d7cfd1486c3c147b3faec7741b837efc773115",
+      "label": "Emplexx - Mord Fustang - Pop feat. LIINKS [Emplexx Flip]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Emplexx - Mord Fustang - Pop feat. LIINKS [Emplexx Flip].mp3",
+      "source_bytes": 9946800,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/16.mp3",
+      "sha256": "cbf1368b2ba7cf9e6697a016b3203617f49f9344dcff3e9bf451588d6f65d186",
+      "label": "Exobolt - THUNDERCLAP",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Exobolt - THUNDERCLAP.mp3",
+      "source_bytes": 7515068,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/17.mp3",
+      "sha256": "76289559f9edd5350dd2d656c42af012ba8cbe915f3637617742f8b06a93e736",
+      "label": "FEEL SUITE - SAMPHA - INDECISION (FEEL SUITE FLIP)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/FEEL SUITE - SAMPHA - INDECISION (FEEL SUITE FLIP).mp3",
+      "source_bytes": 7697816,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/18.mp3",
+      "sha256": "810b881fe05f9ede1cbdbeea9f1774ce288b7e30d321698e59a3e0f966381310",
+      "label": "FUTSU - INFEKT - REWIND (FUTSU REMIX) (FREE DL)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/FUTSU - INFEKT - REWIND (FUTSU REMIX) (FREE DL).mp3",
+      "source_bytes": 7860545,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/19.mp3",
+      "sha256": "26f6a5c4b1efe12ec5b2b39d87f18c9d17597ac50336dcf6a78266ce8f212afc",
+      "label": "Full Flex Audio - RQUNY - COME SELEKTA (Kretoal Remix)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Full Flex Audio - RQUNY - COME SELEKTA (Kretoal Remix).mp3",
+      "source_bytes": 7587060,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/20.mp3",
+      "sha256": "808c0d2e4b72cd6f9623e4a907cd8dec8f6b621989bd28a4d5f2a00c35842749",
+      "label": "JOUST - JOUST - ANVIL (FREE)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/JOUST - JOUST - ANVIL (FREE).mp3",
+      "source_bytes": 6133390,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/21.mp3",
+      "sha256": "d5e2baa73e54864e7aa4ddf7a1ae855ec71a8363fc9c9d0885b68b0fe56a3426",
+      "label": "JoeB - Power Drive",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/JoeB - Power Drive.mp3",
+      "source_bytes": 6949710,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/22.mp3",
+      "sha256": "26408cc7b5f8b05bdf76577ba4b710370babf09329c5ff6bdb69ed0ceabf7029",
+      "label": "K!NDLY - K!NDLY - 2026 SHOWCASE",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/K!NDLY - K!NDLY - 2026 SHOWCASE.mp3",
+      "source_bytes": 36597821,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/23.mp3",
+      "sha256": "c4943391f48c7adb2f7ca5fed6da01e77cc91bba2374ef7eeccfb022f09114e1",
+      "label": "KRISCHVN - Fried",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/KRISCHVN - Fried.mp3",
+      "source_bytes": 6479306,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/24.mp3",
+      "sha256": "93ba6c95bb6a9a17aef0e0ccddf87eb48335a25541f69f5829662f5314301b9c",
+      "label": "KUCES - KUCES - Calling",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/KUCES - KUCES - Calling.mp3",
+      "source_bytes": 5207557,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/25.mp3",
+      "sha256": "4e9d6fe8d9b0104a7f599d7c4350fc4ab9adb37af166f1b31617606a9a48a359",
+      "label": "KUCES - KUCES - Heartache",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/KUCES - KUCES - Heartache.mp3",
+      "source_bytes": 8224752,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/26.mp3",
+      "sha256": "60e20a1087dfb30dea227c69e72e711137ff774f77e2764970aef87cb09b8b97",
+      "label": "LAZERBLUE ‮ - RQUNY - COME SELEKTA [LAZERBLUE REMIX]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/LAZERBLUE ‮ - RQUNY - COME SELEKTA [LAZERBLUE REMIX].mp3",
+      "source_bytes": 10317536,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/27.mp3",
+      "sha256": "d236569f782b2501f37e84fe0594fbb9b92779913c353f9b6c72f4b5fe06e0e8",
+      "label": "Leotrix - Fighter Pilot",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Leotrix - Fighter Pilot.mp3",
+      "source_bytes": 11669148,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/28.mp3",
+      "sha256": "94c9be58415240bc6ab5b6b2e63020468d3a40a2eb5fbd26a67fb9d5c0409b25",
+      "label": "Leotrix - Preach",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Leotrix - Preach.mp3",
+      "source_bytes": 12137727,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/29.mp3",
+      "sha256": "a6c588167524e8985dc51888dd269cbfed56e67545b0bd79370fc86c25db3486",
+      "label": "Luca - RQUNY - COME SELEKTA (Luca Remix)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Luca - RQUNY - COME SELEKTA (Luca Remix).mp3",
+      "source_bytes": 7643519,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/30.mp3",
+      "sha256": "31c43395b2a038d3a05c7b557b576e51f4ad5827ceb194f035bb3b1bb571e558",
+      "label": "MADCORE - MADCORE - Life That I Lead",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/MADCORE - MADCORE - Life That I Lead.mp3",
+      "source_bytes": 4865744,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/31.mp3",
+      "sha256": "8778fbf0d4be5b827ad689c1e569c77b66c310836dd96de04cadda68d3aa87e8",
+      "label": "MOODY GOOD - Humid",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/MOODY GOOD - Humid.mp3",
+      "source_bytes": 8899766,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/32.mp3",
+      "sha256": "cf3db13fb1ec4e20cb1f0bfb52b2f2ba8fbe56d8d4da6377ff445f4f727f7f61",
+      "label": "Maylofy - Why won't you let me go？  - clip -",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Maylofy - Why won't you let me go？  - clip -.mp3",
+      "source_bytes": 1986428,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/33.mp3",
+      "sha256": "4ee45a7c0b1b1cb0de3faa7700200554599f1778adce4b8ec24b57d7a63d768b",
+      "label": "Mile32 - Mile32 - Challenger (Feat. Fugzi)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Mile32 - Mile32 - Challenger (Feat. Fugzi).mp3",
+      "source_bytes": 7504869,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/34.mp3",
+      "sha256": "bea9ea1a7b138f015a2e37f6c5503f593499a9a35e7d6ad45dfb1801d1441f5d",
+      "label": "MrKoolTrix - Vanatice - Gemini (MrKoolTrix Remix)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/MrKoolTrix - Vanatice - Gemini (MrKoolTrix Remix).mp3",
+      "source_bytes": 7959486,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/35.mp3",
+      "sha256": "070abc2489eaa69d9b7a77848df8c1fdb79dd427a8cb6551f535f63bfac8c1ac",
+      "label": "NIMH - Rotten",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/NIMH - Rotten.mp3",
+      "source_bytes": 5186808,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/36.mp3",
+      "sha256": "ea4572515320da9a3a00ba471f28e147374866983d8b0ae3dfad997ea563ec51",
+      "label": "Primal Rights - FORTRESS",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Primal Rights - FORTRESS.mp3",
+      "source_bytes": 7914440,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/37.mp3",
+      "sha256": "a9dc091b9c4e7a20452cbae9fc132925bbd72b11bd5288da57e2ff55452d46fc",
+      "label": "RAMSAY - RAMSAY - DAGGERS",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/RAMSAY - RAMSAY - DAGGERS.mp3",
+      "source_bytes": 6675832,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/38.mp3",
+      "sha256": "1c8de488219d9230cb1af1120b715d5e7af07078721e32e5633e3d3ebff53708",
+      "label": "RIOT TEN - PUMP x PREGAME MINI MIX SERIES 001",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/RIOT TEN - PUMP x PREGAME MINI MIX SERIES 001.mp3",
+      "source_bytes": 34179069,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/39.mp3",
+      "sha256": "8049e86609c783a78475059d324ee9314710f2b35665a05331a54672678b7df8",
+      "label": "Rebo Band - Vengeance",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Rebo Band - Vengeance.mp3",
+      "source_bytes": 3522419,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/40.mp3",
+      "sha256": "75997c83b735b756405d9c48b7eae53399c4f9c0f215d32addd975cfbac10ea1",
+      "label": "SISTO - SISTO - DAMNATION",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/SISTO - SISTO - DAMNATION.mp3",
+      "source_bytes": 7141907,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/41.mp3",
+      "sha256": "9d025640457b075f105d18515fc5bb43e329b8817d1dc2b5783b3f5947ac12d6",
+      "label": "SPACE LACES - Space Laces, Dillon Francis - Staxx",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/SPACE LACES - Space Laces, Dillon Francis - Staxx.mp3",
+      "source_bytes": 7280324,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/42.mp3",
+      "sha256": "84e561119bbdadac9fb09e6a10681f1795dacc30796c1959caa25575e5368625",
+      "label": "SPLASH ONE - rquny - COME SELEKTA [SPLASH ONE REMIX]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/SPLASH ONE - rquny - COME SELEKTA [SPLASH ONE REMIX].mp3",
+      "source_bytes": 5328628,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/43.mp3",
+      "sha256": "73949454663622b61be8fcaceb857b59bdcddc9ae0b6e1a9ec024921eba9763f",
+      "label": "Sample Bandit - Sample Bandit @ Noveci BD Event [CLASSIC BASS 2026 😎]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Sample Bandit - Sample Bandit @ Noveci BD Event [CLASSIC BASS 2026 😎].mp3",
+      "source_bytes": 56775378,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/44.mp3",
+      "sha256": "a1685af01114ca59bc2827d368bbb1728a1909d37f5fc9a1b5c73929d6b22bf1",
+      "label": "Savage Society Records - CLUB ANTSY - SPELLCASTER",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Savage Society Records - CLUB ANTSY - SPELLCASTER.mp3",
+      "source_bytes": 7572050,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/45.mp3",
+      "sha256": "0f13dabfc6acf3983b1ea7c74eb51b6245c4ef5b53ae2098972da19b78f854ff",
+      "label": "Sharks - 2026 SHOWCASE",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Sharks - 2026 SHOWCASE.mp3",
+      "source_bytes": 23342116,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/46.mp3",
+      "sha256": "10452217b62788fcf85022783d6b367a4828cdf92f520a4aad6187915111eee9",
+      "label": "Storyboard - storyboard - deep blue sea",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Storyboard - storyboard - deep blue sea.mp3",
+      "source_bytes": 7265428,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/47.mp3",
+      "sha256": "9ce7cb4f3f68402de1c0ea557f0ee1cae0b6c64064729062e1bf6fac89d4ff65",
+      "label": "The Gradient Perspective - Breathworkz x Packet Loss - Keep Me Safe",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/The Gradient Perspective - Breathworkz x Packet Loss - Keep Me Safe.mp3",
+      "source_bytes": 8922109,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/48.mp3",
+      "sha256": "c48df56534e989327030133291d2f6f07f47225c2e888b5826705dda96e52cef",
+      "label": "Unreleased Fire - INFEKT & Modal Nodes - Infected Demo [Released]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/Unreleased Fire - INFEKT & Modal Nodes - Infected Demo [Released].mp3",
+      "source_bytes": 3992613,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/49.mp3",
+      "sha256": "adff080fe96fa9ce8d7516ebcc05a18fdf983330be9c59e45a859dc2ff5de6f2",
+      "label": "XUMA² - TO EXCEED LIMITS YOU NEVER KNEW EXISTED",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/XUMA² - TO EXCEED LIMITS YOU NEVER KNEW EXISTED.mp3",
+      "source_bytes": 9805836,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/50.mp3",
+      "sha256": "07026b95adc2b095eea799c0322d0aa88d6d3887fd2c0383434949ea5f337144",
+      "label": "YAKZ - YAKZ - STUCK IN MY HEAD",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/YAKZ - YAKZ - STUCK IN MY HEAD.mp3",
+      "source_bytes": 2961198,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/51.mp3",
+      "sha256": "b2711542afc5b37296dab887bb3f2001a4fc44d638eea84007e3745a5582c391",
+      "label": "beastboi. - G-CHECK w⧸ DEXAMP",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/beastboi. - G-CHECK w⧸ DEXAMP.mp3",
+      "source_bytes": 7097836,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/52.mp3",
+      "sha256": "5e4dae7a5b89ac9d3eff63d5c409542fd2953defbaf264e2f8f79daaef375026",
+      "label": "beastboi. - WORLD EATER",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/beastboi. - WORLD EATER.mp3",
+      "source_bytes": 7481726,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/53.mp3",
+      "sha256": "ac6001677d452990c34f4a62b86267f41a15ae571cb715c9dff7f7b066f687d0",
+      "label": "enum_ - Skrillex - Voltage (enum flip)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/enum_ - Skrillex - Voltage (enum flip).mp3",
+      "source_bytes": 9453092,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/54.mp3",
+      "sha256": "1596270006bda68905d63532b7c769c068375aced135dbefd173ce6124f2f210",
+      "label": "euphee ΘΔ - BLOCKU",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/euphee ΘΔ - BLOCKU.mp3",
+      "source_bytes": 4392161,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/55.mp3",
+      "sha256": "a8f165e420c4e1f427d302aab98070e81e74320bdc0736ba7f336cb2593b6d5f",
+      "label": "hakaii dubz - 2026 Showcase",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/hakaii dubz - 2026 Showcase.mp3",
+      "source_bytes": 37993664,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/56.mp3",
+      "sha256": "11c37b7b138be5ee50a31fa26a20ffc6d077440d63f9ef3d48770625d0cfa23e",
+      "label": "hax - giv",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/hax - giv.mp3",
+      "source_bytes": 2152414,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/57.mp3",
+      "sha256": "14d4d4f56bca623a99c1d065c6cbb5d96928f28fa2934868c235b87c9d198e0d",
+      "label": "junoes - by： moorekismet dollmaker tina#anc inno r000 yari 31sentinel greyrock wbe9i rimeren tainiy & me",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/junoes - by： moorekismet dollmaker tina#anc inno r000 yari 31sentinel greyrock wbe9i rimeren tainiy & me.mp3",
+      "source_bytes": 18312971,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/58.mp3",
+      "sha256": "2c8d36681506e7503d89704540d1c3d39b66159f66a23f743bc0ebaab596858e",
+      "label": "jztincase! - silly man [FREE DL]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/jztincase! - silly man [FREE DL].mp3",
+      "source_bytes": 8012455,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/59.mp3",
+      "sha256": "f9bfc949c2aafffe884719e1dcd4fbbc2bdb78c62e86c3ae9978eb5178a91301",
+      "label": "lingoturbo - RUN IT UP",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/lingoturbo - RUN IT UP.mp3",
+      "source_bytes": 3926052,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/60.mp3",
+      "sha256": "db14acd4d489aa4fe5fc16b21a8105e5c4b151887d183d8c907ef3505eacaf2a",
+      "label": "lucas - izadi - reality portal (edit)",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/lucas - izadi - reality portal (edit).mp3",
+      "source_bytes": 5945967,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/61.mp3",
+      "sha256": "f185a2bcd9983f08ca4681608e93fe3fcbc8f761e16291f3a04adc3ec99d8ff3",
+      "label": "ohwait! - crazycauseiloveyou",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/ohwait! - crazycauseiloveyou.mp3",
+      "source_bytes": 5278616,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/62.mp3",
+      "sha256": "0f90df679e2141d75638d3f6a6d25e10f24f9be5d030658d814c41e3bbd44e4b",
+      "label": "sensori - Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL]",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/sensori - Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL].mp3",
+      "source_bytes": 7093184,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/63.mp3",
+      "sha256": "6e1e8be76c99132646d1759d0dd994329b26fcb711dcc92928a8fdeae1c36f1b",
+      "label": "skuz - jacket",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/skuz - jacket.mp3",
+      "source_bytes": 6214425,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/64.mp3",
+      "sha256": "537851e243570a10217c7168c38bdb1fe2e98e1c6efed846cb6329c1f2171dce",
+      "label": "unisixn - xxdays",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/unisixn - xxdays.mp3",
+      "source_bytes": 6520664,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/65.mp3",
+      "sha256": "cda5e6fac76d95866964939c9ef029e42b27e9ab05e671202b96c6fb546c670a",
+      "label": "vyle - danza delle ombre",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/vyle - danza delle ombre.mp3",
+      "source_bytes": 41872648,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/66.mp3",
+      "sha256": "e4c6f484d40762a1c9c5b0725211ca3bdb477cd3bcd5d8076a2e6d7a860482a5",
+      "label": "vyle - leggero",
+      "source_path": "/Volumes/My Passport/soundcloud_likes/vyle - leggero.mp3",
+      "source_bytes": 2024169,
+      "rights_status": "unverified",
+      "publication_allowed": false
+    }
+  ],
+  "rights": "Local mix preparation only; no track is certified for YouTube publication."
+}

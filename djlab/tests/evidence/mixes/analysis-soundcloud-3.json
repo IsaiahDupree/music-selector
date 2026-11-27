@@ -1,0 +1,96 @@
+{
+  "contract": "orion_harmonic_analysis_v1",
+  "analysis_seconds": 180,
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/soundcloud/49.mp3",
+      "sha256": "adff080fe96fa9ce8d7516ebcc05a18fdf983330be9c59e45a859dc2ff5de6f2",
+      "label": "XUMA² - TO EXCEED LIMITS YOU NEVER KNEW EXISTED"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/50.mp3",
+      "sha256": "07026b95adc2b095eea799c0322d0aa88d6d3887fd2c0383434949ea5f337144",
+      "label": "YAKZ - YAKZ - STUCK IN MY HEAD"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/51.mp3",
+      "sha256": "b2711542afc5b37296dab887bb3f2001a4fc44d638eea84007e3745a5582c391",
+      "label": "beastboi. - G-CHECK w⧸ DEXAMP"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/52.mp3",
+      "sha256": "5e4dae7a5b89ac9d3eff63d5c409542fd2953defbaf264e2f8f79daaef375026",
+      "label": "beastboi. - WORLD EATER"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/53.mp3",
+      "sha256": "ac6001677d452990c34f4a62b86267f41a15ae571cb715c9dff7f7b066f687d0",
+      "label": "enum_ - Skrillex - Voltage (enum flip)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/54.mp3",
+      "sha256": "1596270006bda68905d63532b7c769c068375aced135dbefd173ce6124f2f210",
+      "label": "euphee ΘΔ - BLOCKU"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/55.mp3",
+      "sha256": "a8f165e420c4e1f427d302aab98070e81e74320bdc0736ba7f336cb2593b6d5f",
+      "label": "hakaii dubz - 2026 Showcase"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/56.mp3",
+      "sha256": "11c37b7b138be5ee50a31fa26a20ffc6d077440d63f9ef3d48770625d0cfa23e",
+      "label": "hax - giv"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/57.mp3",
+      "sha256": "14d4d4f56bca623a99c1d065c6cbb5d96928f28fa2934868c235b87c9d198e0d",
+      "label": "junoes - by： moorekismet dollmaker tina#anc inno r000 yari 31sentinel greyrock wbe9i rimeren tainiy & me"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/58.mp3",
+      "sha256": "2c8d36681506e7503d89704540d1c3d39b66159f66a23f743bc0ebaab596858e",
+      "label": "jztincase! - silly man [FREE DL]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/59.mp3",
+      "sha256": "f9bfc949c2aafffe884719e1dcd4fbbc2bdb78c62e86c3ae9978eb5178a91301",
+      "label": "lingoturbo - RUN IT UP"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/60.mp3",
+      "sha256": "db14acd4d489aa4fe5fc16b21a8105e5c4b151887d183d8c907ef3505eacaf2a",
+      "label": "lucas - izadi - reality portal (edit)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/61.mp3",
+      "sha256": "f185a2bcd9983f08ca4681608e93fe3fcbc8f761e16291f3a04adc3ec99d8ff3",
+      "label": "ohwait! - crazycauseiloveyou"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/62.mp3",
+      "sha256": "0f90df679e2141d75638d3f6a6d25e10f24f9be5d030658d814c41e3bbd44e4b",
+      "label": "sensori - Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/63.mp3",
+      "sha256": "6e1e8be76c99132646d1759d0dd994329b26fcb711dcc92928a8fdeae1c36f1b",
+      "label": "skuz - jacket"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/64.mp3",
+      "sha256": "537851e243570a10217c7168c38bdb1fe2e98e1c6efed846cb6329c1f2171dce",
+      "label": "unisixn - xxdays"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/65.mp3",
+      "sha256": "cda5e6fac76d95866964939c9ef029e42b27e9ab05e671202b96c6fb546c670a",
+      "label": "vyle - danza delle ombre"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/66.mp3",
+      "sha256": "e4c6f484d40762a1c9c5b0725211ca3bdb477cd3bcd5d8076a2e6d7a860482a5",
+      "label": "vyle - leggero"
+    }
+  ]
+}

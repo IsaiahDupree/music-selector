@@ -1,0 +1,6 @@
+{"event": "window_complete", "track": 1, "start_seconds": 0, "end_seconds": 30.0}
+{"event": "window_complete", "track": 1, "start_seconds": 30, "end_seconds": 60.0}
+{"event": "window_complete", "track": 1, "start_seconds": 60, "end_seconds": 90.0}
+{"event": "window_complete", "track": 1, "start_seconds": 90, "end_seconds": 120.0}
+{"event": "window_complete", "track": 1, "start_seconds": 120, "end_seconds": 150.0}
+{"event": "window_complete", "track": 1, "start_seconds": 150, "end_seconds": 158.4273015873016}

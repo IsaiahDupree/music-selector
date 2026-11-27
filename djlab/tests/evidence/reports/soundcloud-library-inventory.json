@@ -1,0 +1,931 @@
+{
+  "observed_at": "2026-10-13T00:09:23.840819+00:00",
+  "source_directory": "/Volumes/My Passport/soundcloud_likes",
+  "method": "bounded ID3 metadata read, no audio decoding/analysis",
+  "tracks": [
+    {
+      "file": "AENSO - RQUNY - COME SELEKTA (AENSO REMIX).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/AENSO - RQUNY - COME SELEKTA (AENSO REMIX).mp3",
+      "bytes": 13254625,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/sayitaenso/comeselektarmx | ",
+        "TIT2": "RQUNY - COME SELEKTA (AENSO REMIX) | ",
+        "TPE1": "AENSO | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Automhate - AUTOMHATE - HEAT VISION.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Automhate - AUTOMHATE - HEAT VISION.mp3",
+      "bytes": 6143485,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/automhate/automhate-heat-vision | ",
+        "TIT2": "AUTOMHATE - HEAT VISION | ",
+        "TPE1": "Automhate | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Aweminus - Leotrix - Hive Bounce (Aweminus Remix) [Patreon].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Aweminus - Leotrix - Hive Bounce (Aweminus Remix) [Patreon].mp3",
+      "bytes": 2395261,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/aweminus/leotrix-hive-bounce-aweminus-remix-patreon | ",
+        "TIT2": "Leotrix - Hive Bounce (Aweminus Remix) [Patreon] | ",
+        "TPE1": "Aweminus | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "BAHAMUT - UP THE JAM [FREE DOWNLOAD].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/BAHAMUT - UP THE JAM [FREE DOWNLOAD].mp3",
+      "bytes": 6552841,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/bahamutmusic/upthejam | ",
+        "TIT2": "UP THE JAM [FREE DOWNLOAD] | ",
+        "TPE1": "BAHAMUT | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "BANNED WRLD RADIO - DD01252026 045.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/BANNED WRLD RADIO - DD01252026 045.mp3",
+      "bytes": 3304335,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/bannedwrldradio/008ea173-ad45-4802-bb56-59746ce5542b | ",
+        "TIT2": "DD01252026 045 | ",
+        "TPE1": "BANNED WRLD RADIO | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "BEEGURTT - Two pump chump [FREE DL].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/BEEGURTT - Two pump chump [FREE DL].mp3",
+      "bytes": 4162346,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/beegurtt/two-pump-chump-free-dl | ",
+        "TIT2": "Two pump chump [FREE DL] | ",
+        "TPE1": "BEEGURTT | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Beat Intelligence Network - Akeos - Injury Detail.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Beat Intelligence Network - Akeos - Injury Detail.mp3",
+      "bytes": 6112020,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/beat-intelligence-network/akeos-injury-detail | ",
+        "TIT2": "Akeos - Injury Detail | ",
+        "TPE1": "Akeos | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Blankface - BLANKFACE - DOG PUKE.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Blankface - BLANKFACE - DOG PUKE.mp3",
+      "bytes": 5494670,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/blankfacedubstep/blankface-dog-puke | ",
+        "TIT2": "BLANKFACE - DOG PUKE | ",
+        "TPE1": "Blankface | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Breathworkz - Breathworkz Live @ SoundHaven 2025.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Breathworkz - Breathworkz Live @ SoundHaven 2025.mp3",
+      "bytes": 112300749,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/breathworkz/breathworkz-live-soundhaven-2025 | ",
+        "TIT2": "Breathworkz Live @ SoundHaven 2025 | ",
+        "TPE1": "Breathworkz | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "CÅARL - CÅARL @ CYBE LAUNCH PARTY - SALOON, TOKYO.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/CÅARL - CÅARL @ CYBE LAUNCH PARTY - SALOON, TOKYO.mp3",
+      "bytes": 120102198,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/c-a-a-r-l/ca-arl-cybe-launch-party | ",
+        "TIT2": "CÅARL @ CYBE LAUNCH PARTY - SALOON, TOKYO | ",
+        "TPE1": "CÅARL， CYBERECORDINGS | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Decimate - Decimate - Off The Rails.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Decimate - Decimate - Off The Rails.mp3",
+      "bytes": 7149208,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/decimatedubs/decimate-off-the-rails | ",
+        "TIT2": "Decimate - Off The Rails | ",
+        "TPE1": "Decimate | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Devath - 2026 SHOWCASE.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Devath - 2026 SHOWCASE.mp3",
+      "bytes": 34216711,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/devathtunes/2026-showcase | ",
+        "TIT2": "2026 SHOWCASE | ",
+        "TPE1": "Devath | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Dubstep FBI - SUBFILTRONIK - Riot Control Radio 142.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Dubstep FBI - SUBFILTRONIK - Riot Control Radio 142.mp3",
+      "bytes": 59422830,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/dubstepfbi/subfiltronik-riot-control | ",
+        "TIT2": "SUBFILTRONIK - Riot Control Radio 142 | ",
+        "TPE1": "SUBFILTRONIK | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Emplexx - Kill 'em with Moe.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Emplexx - Kill 'em with Moe.mp3",
+      "bytes": 12764779,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/emplexx/kill-em-with-moe | ",
+        "TIT2": "Kill 'em with Moe | ",
+        "TPE1": "Emplexx | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Emplexx - Mord Fustang - Pop feat. LIINKS [Emplexx Flip].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Emplexx - Mord Fustang - Pop feat. LIINKS [Emplexx Flip].mp3",
+      "bytes": 9946800,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/emplexx/pop | ",
+        "TIT2": "Mord Fustang - Pop feat. LIINKS [Emplexx Flip] | ",
+        "TPE1": "Emplexx | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Exobolt - THUNDERCLAP.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Exobolt - THUNDERCLAP.mp3",
+      "bytes": 7515068,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "purl | https://soundcloud.com/exobolt/thunderclap | ",
+        "TIT2": "THUNDERCLAP | ",
+        "TPE1": "Sample Bandit | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "FEEL SUITE - SAMPHA - INDECISION (FEEL SUITE FLIP).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/FEEL SUITE - SAMPHA - INDECISION (FEEL SUITE FLIP).mp3",
+      "bytes": 7697816,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/feelsuite/indecisionflip | ",
+        "TIT2": "SAMPHA - INDECISION (FEEL SUITE FLIP) | ",
+        "TPE1": "FEEL SUITE | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "FUTSU - INFEKT - REWIND (FUTSU REMIX) (FREE DL).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/FUTSU - INFEKT - REWIND (FUTSU REMIX) (FREE DL).mp3",
+      "bytes": 7860545,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "purl | https://soundcloud.com/futsuoficial/infekt-rewind-futsu-remix | ",
+        "TIT2": "INFEKT - REWIND (FUTSU REMIX) (FREE DL) | ",
+        "TPE1": "FUTSU | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Full Flex Audio - RQUNY - COME SELEKTA (Kretoal Remix).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Full Flex Audio - RQUNY - COME SELEKTA (Kretoal Remix).mp3",
+      "bytes": 7587060,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/fullflexaudio/rquny-come-selekta-kretoal-remix-1 | ",
+        "TIT2": "RQUNY - COME SELEKTA (Kretoal Remix) | ",
+        "TPE1": "RQUNY | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "JOUST - JOUST - ANVIL (FREE).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/JOUST - JOUST - ANVIL (FREE).mp3",
+      "bytes": 6133390,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/joustdub/joust-anvil-free-dl | ",
+        "TIT2": "JOUST - ANVIL (FREE) | ",
+        "TPE1": "JOUST | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "JoeB - Power Drive.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/JoeB - Power Drive.mp3",
+      "bytes": 6949710,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/joeb_uk/power-drive | ",
+        "TIT2": "Power Drive | ",
+        "TPE1": "JoeB | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "K!NDLY - K!NDLY - 2026 SHOWCASE.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/K!NDLY - K!NDLY - 2026 SHOWCASE.mp3",
+      "bytes": 36597821,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/kindlymusic/2026-showcase | ",
+        "TIT2": "K!NDLY - 2026 SHOWCASE | ",
+        "TPE1": "K!NDLY | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "KRISCHVN - Fried.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/KRISCHVN - Fried.mp3",
+      "bytes": 6479306,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/krischvn/fried | ",
+        "TIT2": "Fried | ",
+        "TPE1": "KRISCHVN | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "KUCES - KUCES - Calling.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/KUCES - KUCES - Calling.mp3",
+      "bytes": 5207557,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/kuces/calling | ",
+        "TIT2": "KUCES - Calling | ",
+        "TPE1": "KUCES | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "KUCES - KUCES - Heartache.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/KUCES - KUCES - Heartache.mp3",
+      "bytes": 8224752,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/kuces/heartache | ",
+        "TIT2": "KUCES - Heartache | ",
+        "TPE1": "KUCES | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "LAZERBLUE ‮ - RQUNY - COME SELEKTA [LAZERBLUE REMIX].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/LAZERBLUE ‮ - RQUNY - COME SELEKTA [LAZERBLUE REMIX].mp3",
+      "bytes": 10317536,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/lazerbluemusic/come-selecta-lazerblue-rmx-fix | ",
+        "TIT2": "RQUNY - COME SELEKTA [LAZERBLUE REMIX] | ",
+        "TPE1": "LAZERBLUE | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Leotrix - Fighter Pilot.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Leotrix - Fighter Pilot.mp3",
+      "bytes": 11669148,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "purl | https://soundcloud.com/leotrixofficial/fighter-pilot-1 | ",
+        "TIT2": "Fighter Pilot | ",
+        "TPE1": "Leotrix | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Leotrix - Preach.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Leotrix - Preach.mp3",
+      "bytes": 12137727,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/leotrixofficial/preach | ",
+        "TIT2": "Preach | ",
+        "TPE1": "Leotrix | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Luca - RQUNY - COME SELEKTA (Luca Remix).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Luca - RQUNY - COME SELEKTA (Luca Remix).mp3",
+      "bytes": 7643519,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/luca_tunes/rquny-come-selekta-luca-remix | ",
+        "TIT2": "RQUNY - COME SELEKTA (Luca Remix) | ",
+        "TPE1": "Luca | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "MADCORE - MADCORE - Life That I Lead.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/MADCORE - MADCORE - Life That I Lead.mp3",
+      "bytes": 4865744,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/madcoredubstep/life | ",
+        "TIT2": "MADCORE - Life That I Lead | ",
+        "TPE1": "MADCORE | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "MOODY GOOD - Humid.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/MOODY GOOD - Humid.mp3",
+      "bytes": 8899766,
+      "id3_version": 3,
+      "tags": {
+        "TIT2": "Humid | ",
+        "TXXX": "comment | https://soundcloud.com/moodygood/humid | ",
+        "TPE1": "Moody Good | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Maylofy - Why won't you let me go？  - clip -.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Maylofy - Why won't you let me go？  - clip -.mp3",
+      "bytes": 1986428,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/maylofytunes/why-wont-you-let-me-go-clip | ",
+        "TPE1": "Maylofy | ",
+        "TIT2": "Why won't you let me go?  - clip - | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Mile32 - Mile32 - Challenger (Feat. Fugzi).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Mile32 - Mile32 - Challenger (Feat. Fugzi).mp3",
+      "bytes": 7504869,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/mile32dub/challenger | ",
+        "TIT2": "Mile32 - Challenger (Feat. Fugzi) | ",
+        "TPE1": "Mile32 | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "MrKoolTrix - Vanatice - Gemini (MrKoolTrix Remix).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/MrKoolTrix - Vanatice - Gemini (MrKoolTrix Remix).mp3",
+      "bytes": 7959486,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/mrkooltrix/gemini-rmx | ",
+        "TIT2": "Vanatice - Gemini (MrKoolTrix Remix) | ",
+        "TPE1": "Vanatice， MrKoolTrix | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "NIMH - Rotten.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/NIMH - Rotten.mp3",
+      "bytes": 5186808,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/nimh_experiment/rotten | ",
+        "TIT2": "Rotten | ",
+        "TPE1": "NIMH | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Primal Rights - FORTRESS.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Primal Rights - FORTRESS.mp3",
+      "bytes": 7914440,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/primalrights/fortress | ",
+        "TIT2": "FORTRESS | ",
+        "TPE1": "Primal Rights | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "RAMSAY - RAMSAY - DAGGERS.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/RAMSAY - RAMSAY - DAGGERS.mp3",
+      "bytes": 6675832,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/ramsaydubs/84fa58ed-5be4-486b-a605-90e316d19e99 | ",
+        "TIT2": "RAMSAY - DAGGERS | ",
+        "TPE1": "RAMSAY | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "RIOT TEN - PUMP x PREGAME MINI MIX SERIES 001.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/RIOT TEN - PUMP x PREGAME MINI MIX SERIES 001.mp3",
+      "bytes": 34179069,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/riotten/pump-x-pregame-mini-mix-series-001 | ",
+        "TIT2": "PUMP x PREGAME MINI MIX SERIES 001 | ",
+        "TPE1": "RIOT TEN | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Rebo Band - Vengeance.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Rebo Band - Vengeance.mp3",
+      "bytes": 3522419,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/rebo-band/vengeance | ",
+        "TPE1": "Rebo Band | ",
+        "TIT2": "Vengeance | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "SISTO - SISTO - DAMNATION.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/SISTO - SISTO - DAMNATION.mp3",
+      "bytes": 7141907,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/sisto_official/sisto-damnation | ",
+        "TIT2": "SISTO - DAMNATION | ",
+        "TPE1": "SISTO | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "SPACE LACES - Space Laces, Dillon Francis - Staxx.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/SPACE LACES - Space Laces, Dillon Francis - Staxx.mp3",
+      "bytes": 7280324,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/space-laces/staxx | ",
+        "TIT2": "Space Laces, Dillon Francis - Staxx | ",
+        "TPE1": "SPACE LACES | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "SPLASH ONE - rquny - COME SELEKTA [SPLASH ONE REMIX].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/SPLASH ONE - rquny - COME SELEKTA [SPLASH ONE REMIX].mp3",
+      "bytes": 5328628,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/splashonemusic/rquny-come-selekta-splash-1 | ",
+        "TIT2": "rquny - COME SELEKTA [SPLASH ONE REMIX] | ",
+        "TPE1": "SPLASH ONE | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Sample Bandit - Sample Bandit @ Noveci BD Event [CLASSIC BASS 2026 😎].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Sample Bandit - Sample Bandit @ Noveci BD Event [CLASSIC BASS 2026 😎].mp3",
+      "bytes": 56775378,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/samplebandit/noveci-mix-2026 | ",
+        "TPE1": "Sample Bandit | ",
+        "TIT2": "Sample Bandit @ Noveci BD Event [CLASSIC BASS 2026 😎] | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Savage Society Records - CLUB ANTSY - SPELLCASTER.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Savage Society Records - CLUB ANTSY - SPELLCASTER.mp3",
+      "bytes": 7572050,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/savagesocietyrecords/club-antsy-spellcaster | ",
+        "TIT2": "CLUB ANTSY - SPELLCASTER | ",
+        "TPE1": "CLUB ANTSY | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Sharks - 2026 SHOWCASE.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Sharks - 2026 SHOWCASE.mp3",
+      "bytes": 23342116,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/sharkstunes/2026-showcase | ",
+        "TIT2": "2026 SHOWCASE | ",
+        "TPE1": "Sharks | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Storyboard - storyboard - deep blue sea.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Storyboard - storyboard - deep blue sea.mp3",
+      "bytes": 7265428,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/storyboard/storyboard-deep-blue-sea | ",
+        "TIT2": "storyboard - deep blue sea | ",
+        "TPE1": "Storyboard | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "The Gradient Perspective - Breathworkz x Packet Loss - Keep Me Safe.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/The Gradient Perspective - Breathworkz x Packet Loss - Keep Me Safe.mp3",
+      "bytes": 8922109,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/gradientperspective/breathworkz-x-packet-loss-keep | ",
+        "TIT2": "Breathworkz x Packet Loss - Keep Me Safe | ",
+        "TPE1": "Breathworkz， Packet Loss | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "Unreleased Fire - INFEKT & Modal Nodes - Infected Demo [Released].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/Unreleased Fire - INFEKT & Modal Nodes - Infected Demo [Released].mp3",
+      "bytes": 3992613,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/unreleasedfire1/infekt-modal-nodes-id | ",
+        "TIT2": "INFEKT & Modal Nodes - Infected Demo [Released] | ",
+        "TPE1": "INFEKT， Modal Nodes | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "XUMA² - TO EXCEED LIMITS YOU NEVER KNEW EXISTED.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/XUMA² - TO EXCEED LIMITS YOU NEVER KNEW EXISTED.mp3",
+      "bytes": 9805836,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/xuma2/the-world | ",
+        "TPE1": "XUMA² | ",
+        "TIT2": "TO EXCEED LIMITS YOU NEVER KNEW EXISTED | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "YAKZ - YAKZ - STUCK IN MY HEAD.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/YAKZ - YAKZ - STUCK IN MY HEAD.mp3",
+      "bytes": 2961198,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/yakz/yakz-stuck-in-my-head | ",
+        "TPE1": "YAKZ | ",
+        "TIT2": "YAKZ - STUCK IN MY HEAD | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "beastboi. - G-CHECK w⧸ DEXAMP.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/beastboi. - G-CHECK w⧸ DEXAMP.mp3",
+      "bytes": 7097836,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/beastboisucks/g-check-w-dexamp-4 | ",
+        "TIT2": "G-CHECK w/ DEXAMP | ",
+        "TPE1": "beastboi. | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "beastboi. - WORLD EATER.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/beastboi. - WORLD EATER.mp3",
+      "bytes": 7481726,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/beastboisucks/af2f8ba5-2049-4787-8486-373289cf7a82 | ",
+        "TIT2": "WORLD EATER | ",
+        "TPE1": "beastboi. | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "enum_ - Skrillex - Voltage (enum flip).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/enum_ - Skrillex - Voltage (enum flip).mp3",
+      "bytes": 9453092,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/enum-music/skrillex-voltage-flip | ",
+        "TIT2": "Skrillex - Voltage (enum flip) | ",
+        "TPE1": "enum_ | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "euphee ΘΔ - BLOCKU.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/euphee ΘΔ - BLOCKU.mp3",
+      "bytes": 4392161,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/euphee/blocku | ",
+        "TIT2": "BLOCKU | ",
+        "TPE1": "euphee ΘΔ | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "hakaii dubz - 2026 Showcase.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/hakaii dubz - 2026 Showcase.mp3",
+      "bytes": 37993664,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/hakaii-dubz/2026-showcase | ",
+        "TPE1": "hakaii dubz | ",
+        "TIT2": "2026 Showcase | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "hax - giv.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/hax - giv.mp3",
+      "bytes": 2152414,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/haxdubz/giv | ",
+        "TPE1": "hax | ",
+        "TIT2": "giv | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "junoes - by： moorekismet dollmaker tina#anc inno r000 yari 31sentinel greyrock wbe9i rimeren tainiy & me.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/junoes - by： moorekismet dollmaker tina#anc inno r000 yari 31sentinel greyrock wbe9i rimeren tainiy & me.mp3",
+      "bytes": 18312971,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/j896/safe | ",
+        "TIT2": "by: moorekismet dollmaker tina#anc inno r000 yari 31sentinel greyrock wbe9i rimeren tainiy & me | ",
+        "TPE1": "a safe and normal junoes kit demos | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "jztincase! - silly man [FREE DL].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/jztincase! - silly man [FREE DL].mp3",
+      "bytes": 8012455,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/jztincase/sillyman | ",
+        "TIT2": "silly man [FREE DL] | ",
+        "TPE1": "jztincase! | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "lingoturbo - RUN IT UP.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/lingoturbo - RUN IT UP.mp3",
+      "bytes": 3926052,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/lingoturboo/runitup | ",
+        "TIT2": "RUN IT UP | ",
+        "TPE1": "lingoturbo | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "lucas - izadi - reality portal (edit).mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/lucas - izadi - reality portal (edit).mp3",
+      "bytes": 5945967,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/generallucas/izadi-reality-portal-edit | ",
+        "TIT2": "izadi - reality portal (edit) | ",
+        "TPE1": "lucas | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "ohwait! - crazycauseiloveyou.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/ohwait! - crazycauseiloveyou.mp3",
+      "bytes": 5278616,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/ohwait08/crazy-cause-i-love-you-prod | ",
+        "TIT2": "crazycauseiloveyou | ",
+        "TPE1": "ohwait! | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "sensori - Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL].mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/sensori - Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL].mp3",
+      "bytes": 7093184,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/sensoritunes/aweminus-riddim-4-dummies-sensori-flip-200-follower-free-dl | ",
+        "TIT2": "Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL] | ",
+        "TPE1": "sensori | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "skuz - jacket.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/skuz - jacket.mp3",
+      "bytes": 6214425,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/skuzbum/jacket | ",
+        "TIT2": "jacket | ",
+        "TPE1": "skuz | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "unisixn - xxdays.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/unisixn - xxdays.mp3",
+      "bytes": 6520664,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "purl | https://soundcloud.com/unisixn/xxdays | ",
+        "TIT2": "xxdays | ",
+        "TPE1": "unisixn | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "vyle - danza delle ombre.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/vyle - danza delle ombre.mp3",
+      "bytes": 41872648,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/vyle_so_vile/danza-delle-ombre | ",
+        "TIT2": "danza delle ombre | ",
+        "TPE1": "vyle | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    },
+    {
+      "file": "vyle - leggero.mp3",
+      "path": "/Volumes/My Passport/soundcloud_likes/vyle - leggero.mp3",
+      "bytes": 2024169,
+      "id3_version": 3,
+      "tags": {
+        "TXXX": "comment | https://soundcloud.com/vyle_so_vile/leggero | ",
+        "TPE1": "vyle | ",
+        "TIT2": "leggero | "
+      },
+      "rights_status": "not_verified",
+      "tempo_status": "requires_orion_analysis",
+      "key_status": "requires_orion_analysis"
+    }
+  ]
+}

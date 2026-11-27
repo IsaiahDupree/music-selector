@@ -1,0 +1,101 @@
+{
+  "contract": "orion_harmonic_analysis_v1",
+  "analysis_seconds": 180,
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/soundcloud/16.mp3",
+      "label": "Exobolt - THUNDERCLAP",
+      "sha256": "cbf1368b2ba7cf9e6697a016b3203617f49f9344dcff3e9bf451588d6f65d186"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/17.mp3",
+      "label": "FEEL SUITE - SAMPHA - INDECISION (FEEL SUITE FLIP)",
+      "sha256": "76289559f9edd5350dd2d656c42af012ba8cbe915f3637617742f8b06a93e736"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/18.mp3",
+      "label": "FUTSU - INFEKT - REWIND (FUTSU REMIX) (FREE DL)",
+      "sha256": "810b881fe05f9ede1cbdbeea9f1774ce288b7e30d321698e59a3e0f966381310"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/19.mp3",
+      "label": "Full Flex Audio - RQUNY - COME SELEKTA (Kretoal Remix)",
+      "sha256": "26f6a5c4b1efe12ec5b2b39d87f18c9d17597ac50336dcf6a78266ce8f212afc"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/20.mp3",
+      "label": "JOUST - JOUST - ANVIL (FREE)",
+      "sha256": "808c0d2e4b72cd6f9623e4a907cd8dec8f6b621989bd28a4d5f2a00c35842749"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/21.mp3",
+      "label": "JoeB - Power Drive",
+      "sha256": "d5e2baa73e54864e7aa4ddf7a1ae855ec71a8363fc9c9d0885b68b0fe56a3426"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/24.mp3",
+      "label": "KUCES - KUCES - Calling",
+      "sha256": "93ba6c95bb6a9a17aef0e0ccddf87eb48335a25541f69f5829662f5314301b9c"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/25.mp3",
+      "label": "KUCES - KUCES - Heartache",
+      "sha256": "4e9d6fe8d9b0104a7f599d7c4350fc4ab9adb37af166f1b31617606a9a48a359"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/26.mp3",
+      "label": "LAZERBLUE \u202e - RQUNY - COME SELEKTA [LAZERBLUE REMIX]",
+      "sha256": "60e20a1087dfb30dea227c69e72e711137ff774f77e2764970aef87cb09b8b97"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/27.mp3",
+      "label": "Leotrix - Fighter Pilot",
+      "sha256": "d236569f782b2501f37e84fe0594fbb9b92779913c353f9b6c72f4b5fe06e0e8"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/28.mp3",
+      "label": "Leotrix - Preach",
+      "sha256": "94c9be58415240bc6ab5b6b2e63020468d3a40a2eb5fbd26a67fb9d5c0409b25"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/29.mp3",
+      "label": "Luca - RQUNY - COME SELEKTA (Luca Remix)",
+      "sha256": "a6c588167524e8985dc51888dd269cbfed56e67545b0bd79370fc86c25db3486"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/36.mp3",
+      "label": "Primal Rights - FORTRESS",
+      "sha256": "ea4572515320da9a3a00ba471f28e147374866983d8b0ae3dfad997ea563ec51"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/44.mp3",
+      "label": "Savage Society Records - CLUB ANTSY - SPELLCASTER",
+      "sha256": "a1685af01114ca59bc2827d368bbb1728a1909d37f5fc9a1b5c73929d6b22bf1"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/46.mp3",
+      "label": "Storyboard - storyboard - deep blue sea",
+      "sha256": "10452217b62788fcf85022783d6b367a4828cdf92f520a4aad6187915111eee9"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/53.mp3",
+      "label": "enum_ - Skrillex - Voltage (enum flip)",
+      "sha256": "ac6001677d452990c34f4a62b86267f41a15ae571cb715c9dff7f7b066f687d0"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/58.mp3",
+      "label": "jztincase! - silly man [FREE DL]",
+      "sha256": "2c8d36681506e7503d89704540d1c3d39b66159f66a23f743bc0ebaab596858e"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/60.mp3",
+      "label": "lucas - izadi - reality portal (edit)",
+      "sha256": "db14acd4d489aa4fe5fc16b21a8105e5c4b151887d183d8c907ef3505eacaf2a"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/62.mp3",
+      "label": "sensori - Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL]",
+      "sha256": "0f90df679e2141d75638d3f6a6d25e10f24f9be5d030658d814c41e3bbd44e4b"
+    }
+  ]
+}

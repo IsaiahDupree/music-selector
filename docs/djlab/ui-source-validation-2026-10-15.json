@@ -1,0 +1,87 @@
+{
+  "recorded_at": "2026-10-15T04:35:28.570128+00:00",
+  "scope": "original browser UI, source validation and separately labeled parent browser observations",
+  "files": {
+    "djlab/static/index.html": {
+      "sha256": "9eb497e2c4d5539b8b3e8b145f40c1249baec0721ebc88294e3ed8f04bd60677",
+      "bytes": 9225
+    },
+    "djlab/static/styles.css": {
+      "sha256": "4fb8ae0c986b0a3950b6da46bb126efb26c7b4b8f64103bbb53a1b4f00e64983",
+      "bytes": 20701
+    },
+    "djlab/static/app.js": {
+      "sha256": "b35f8890898e8103a5f2e9c918516ec578cfa2d91a67272313a9f2c97bfded9c",
+      "bytes": 57900
+    }
+  },
+  "source_checks": {
+    "javascript_syntax": "node --check djlab/static/app.js passed",
+    "real_catalog_tracks": 91,
+    "public_soundcloud_research_eligible": 66,
+    "all_v1_missing_energy_waveform_preserved": true,
+    "actual_pair_tempo": {
+      "target_bpm": 60.989,
+      "source_bpm": 131.9,
+      "notation_factor": 0.5,
+      "playback_rate": 0.9247763457164517,
+      "within_ten_percent": true
+    },
+    "reverse_half_double_and_outside_limit_checks": "passed",
+    "default_bpm_fields": {
+      "plan-bpm": "step any; bounds60..190",
+      "manual-bpm": "step any; bounds20..300"
+    },
+    "research_network_in_source_checks": 0,
+    "v2_positive": "not yet exercised; waiting actual Orion artifact"
+  },
+  "parent_observed_browser_checks": {
+    "attribution": "root agent messages; not independently observed by this subagent",
+    "library": {
+      "tracks": 91,
+      "all_media_available": true,
+      "search_adore_matches": 1
+    },
+    "comparison": {
+      "actual_metadata_pair": [
+        60.989,
+        131.9
+      ],
+      "displayed_rate": "0.925x",
+      "notation_label": "half-time assumed, not verified",
+      "both_decks_remained_paused": true
+    },
+    "plan": {
+      "actual_bpm60_989_accepted": true,
+      "displayed_estimated_duration": "2:38",
+      "displayed_requested_duration": "12:00",
+      "shortfall_server_field": "old server had not loaded latest planning module; final warning awaiting restart"
+    },
+    "research": "old server capability unavailable; cache-only panel positive awaits controlled restart"
+  },
+  "functional_scope": [
+    "local API search/filter/manual metadata/cues/loops/nested collections",
+    "actual recommendations and plans with visible limitations",
+    "five actual server export formats",
+    "two interactive HTMLAudio decks; no claimed beatgrid/independent pitch/stems",
+    "explicit click-only synthesized key reference",
+    "public metadata research GET cache only, POST explicit, no audio upload",
+    "actual v2 ranges, source-aware waveform and inferred cue copy-to-form only"
+  ],
+  "known_limits": [
+    "No browser precision claims for loops or phrase alignment",
+    "No DSP or media encoding on Mac",
+    "V2 waveform and energy are measured heuristics, not proprietary energy or musical structure claims",
+    "No autoplay on load/compare",
+    "No external research for private owner productions"
+  ],
+  "source_edits_committed": false,
+  "peer_review": {
+    "reviewer": "youtube_music",
+    "fixed_before_v2_import": [
+      "null key estimate safe rendering",
+      "v2 tempo alternative objects preserve bpm and relationship"
+    ],
+    "scope": "actual DTO/source review; no v2 execution claimed"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "contract": "djlab_captured_evidence_v1",
+  "source_repository": "https://github.com/IsaiahDupree/sour-sides-studio",
+  "source_commit": "8e029908f48f0c211da5b936a61db75ff884d56d",
+  "capture_scope": "Actual metadata and Orion analysis only; no source audio copied; no fabricated records",
+  "files": [
+    {
+      "path": "reports/orion-originals-stage-plan.json",
+      "bytes": 7439,
+      "sha256": "2d9ee8329ac8072b806289d0c442972785118660dfd0670488499f4beff4a2fb",
+      "git_blob": "6b6e44df7651ca0e280321c5245b90097bdd314e"
+    },
+    {
+      "path": "reports/orion-soundcloud-stage-plan.json",
+      "bytes": 27644,
+      "sha256": "344742613286342cc3c3721bee393a78bcfbdecac2120b9ad4cebe93c77cd8e4",
+      "git_blob": "c078ad25b7ace0d3f9f56dc2d42dd1035a2e08fb"
+    },
+    {
+      "path": "reports/orion-originals-staging-receipt.json",
+      "bytes": 4565,
+      "sha256": "f795d68cddda49f200950f269bee57d95da58c679df5ede086f9f19e441fad17",
+      "git_blob": "b267d6370ede4cb1f07ce88ee5d106fbe27c24e0"
+    },
+    {
+      "path": "reports/orion-soundcloud-staging-receipt.json",
+      "bytes": 12076,
+      "sha256": "350f1dd75d42e0f81bed295c55b7450f0c8ca4e3b79beaa4bc888f807695daa7",
+      "git_blob": "040600aeeab5dce56fd345f895cd105c8f85329b"
+    },
+    {
+      "path": "reports/soundcloud-library-inventory.json",
+      "bytes": 35796,
+      "sha256": "efc0ae09e0ea3a05a2354f36d430363951c5cab091d3c23dd2f1b257060471f5",
+      "git_blob": "09461e5d772590b4eb7d0e013b4914214f45799a"
+    },
+    {
+      "path": "reports/audio-analysis-submissions-live.json",
+      "bytes": 37545,
+      "sha256": "2524121c313412314f4a4b4c0cdb7f246bee8cea5a67f9810e3ca3ad1bcfdbd4",
+      "git_blob": "98f6ab1b96bdc7aa2aa6693ada7ca640d7f2bfa5"
+    },
+    {
+      "path": "reports/audio-selected-analysis-submitted.json",
+      "bytes": 6591,
+      "sha256": "aaa3c8afae8a1720e6f567e731bd57f0c65d8a8b1e57cbbbd4199a1b44362a55",
+      "git_blob": "a97f9497eb86c3560f42e61f27c5ccde67e07911"
+    },
+    {
+      "path": "mixes/analysis-results/analysis-originals-1.json",
+      "bytes": 39742,
+      "sha256": "bd6038950fb34c4e5edd8356b1ff7c26fd49085fb84ce8ad8a2d563ed0f7f972",
+      "git_blob": "6ebc41f419a91716632e05ad77f112c1a1c6a7af"
+    },
+    {
+      "path": "mixes/analysis-results/analysis-originals-2.json",
+      "bytes": 1763,
+      "sha256": "f8a71473cae9dde6391a14726f813131f3852d0639c11442ef8af3512982b4a3",
+      "git_blob": "0a3644e6ea54bf7658ad0642d1bb3402d538fe5e"
+    },
+    {
+      "path": "mixes/analysis-results/analysis-selected-refined.json",
+      "bytes": 35252,
+      "sha256": "89540912636c95a1eb2abbe7c1f2dd05fc8e2edf0d33a7273ab14347785c6d3a",
+      "git_blob": "aa56b4386828b0e8281d93038b6dd7f6ab517a7c"
+    },
+    {
+      "path": "mixes/analysis-results/analysis-soundcloud-1.json",
+      "bytes": 40319,
+      "sha256": "86b587433dd8d42920ad5e8178c65aa903af88c324a29f1957554aac9edf4424",
+      "git_blob": "409ff57cc232ed5b743d97c9d8049ab0ac280d2e"
+    },
+    {
+      "path": "mixes/analysis-results/analysis-soundcloud-2.json",
+      "bytes": 40202,
+      "sha256": "d80149d8fc08538070a0f5ebedae17dfab5955887209e62ad6099d0fb00aeebf",
+      "git_blob": "df5a836ebebfa3993d162279da4d4b923a1c3b9b"
+    },
+    {
+      "path": "mixes/analysis-results/analysis-soundcloud-3.json",
+      "bytes": 30084,
+      "sha256": "14fefb9dc92e53a48dfefaf4c3654a9ed102f7dfe88e9552d69a386e1ab2f950",
+      "git_blob": "2fd04461d70895f3aa2dd71f03c75c9ab80400ba"
+    },
+    {
+      "path": "mixes/analysis-originals-1.json",
+      "bytes": 4534,
+      "sha256": "6a2d251a01cc2d3620a490a0a4b0f345c421dacd2d5bc67805751ac7f0f6ae9b",
+      "git_blob": "b8e6d96cd7a400eeb2d546a3706a363a76ac16c3"
+    },
+    {
+      "path": "mixes/analysis-originals-2.json",
+      "bytes": 288,
+      "sha256": "2e46588226698034379cf59f6eed15d2fafb11faef9f92e6c86222e4ab75b07a",
+      "git_blob": "09c63e82ef2e2b5039572c18c0a9b2069b8377e2"
+    },
+    {
+      "path": "mixes/analysis-selected.json",
+      "bytes": 4036,
+      "sha256": "605ae296d4f4b326c6410eb70842485192314a00acb03bac20c37d0243293873",
+      "git_blob": "d4ae1965f57345f88a3caab918273a70bd9c1f2c"
+    },
+    {
+      "path": "mixes/analysis-soundcloud-1.json",
+      "bytes": 5098,
+      "sha256": "9b8e40b9148e6d4651d430e5d571b51513922ad24dec80b64a1a5676dd0396d7",
+      "git_blob": "9f22eb230d4862f973179d993c8bb8f807d2ebb4"
+    },
+    {
+      "path": "mixes/analysis-soundcloud-2.json",
+      "bytes": 5113,
+      "sha256": "2ec47e885389df94cc203ae7a1cffc8dc8a29dc3cd43f8653f568ecc6d89a0fe",
+      "git_blob": "718caf7e4e393bce61f862a3323996412cff866d"
+    },
+    {
+      "path": "mixes/analysis-soundcloud-3.json",
+      "bytes": 3763,
+      "sha256": "a4cd8506c0962a4eb1231cd94f926916aa681c2dd1c954abc18fe2c2a940cb42",
+      "git_blob": "9f368f2fcd0532bcf219b921cd3670332dac9905"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "contract": "orion_harmonic_analysis_v1",
+  "analysis_seconds": 180,
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/originals/25.wav",
+      "sha256": "46c3d4bc0eb59ed325aefd4e48d2bb3fef7d6b047455be17b4ac1bc4aedb7677",
+      "label": "Sour Sides - Kill Them all"
+    }
+  ]
+}

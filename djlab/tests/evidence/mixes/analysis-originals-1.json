@@ -1,0 +1,126 @@
+{
+  "contract": "orion_harmonic_analysis_v1",
+  "analysis_seconds": 180,
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/originals/01.wav",
+      "sha256": "6881dabe87a539f67526850904601cf2d18b7783bbd7264bce925cc763e2343f",
+      "label": "01 adore vs leaves(1)"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/02.wav",
+      "sha256": "159a8b2c802390c4107bce3d80906a00ea9ac699155db9a5b9cc678e1a9e7d8f",
+      "label": "2016 cram bam "
+    },
+    {
+      "input_id": "sour-sides-audio/originals/03.wav",
+      "sha256": "383d7616a91b5a652811bbb7aa22c04b98a1167e0ccba8a869e30be549df4e9f",
+      "label": "DAF_5"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/04.mp3",
+      "sha256": "152aecfdc16c25813b6b902e22683c1e837dfe19b60c9861e3ed7d33ad9d1380",
+      "label": "FUCK ME vip"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/05.mp3",
+      "sha256": "2e3a5b886afe5189da86d2e0b6a8ee40365bf51d5ad2089b30700b90268a74af",
+      "label": "Kill them all full"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/06.mp3",
+      "sha256": "10d0cdcd651e517b24a3927d38b4572f390b4a1c3e47945ca044629b54068e1c",
+      "label": "Memories masterd"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/07.mp3",
+      "sha256": "f05783a5abf92edd1ba77e3d570537949a0262213ac29e0a5ae74b4d1f112215",
+      "label": "good start_6"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/08.wav",
+      "sha256": "4a6ed33a73b238fccbebda7b92b16b0638b7b57c115deb5409dbb37515de0bdb",
+      "label": "grey skies 9"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/09.wav",
+      "sha256": "74f370edd2718efe17ab0edc3e1c823066fba1aac421106e1647813212a3256c",
+      "label": "happy holloweend_8"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/10.mp3",
+      "sha256": "2b84bfb44f3a3481ed78425a0a09e95203e4201c48f9dcca11263c62f9336034",
+      "label": "i want that bass"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/11.mp3",
+      "sha256": "77765ff4a5c77590c2ce9ab8d6a4f3155a7ae24cfb0589ba02f86f2bfefbdc6f",
+      "label": "infinite posiblities_7"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/12.wav",
+      "sha256": "991d7c7baf288bbb26396dfe8ad4ef15cad614cae95864e8b0703fed33ec3933",
+      "label": "isosceles pyramid"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/13.mp3",
+      "sha256": "15e8642c1c6e7e0b309773de3854758381c7a2d510fcaeaf9ef98b1597ca4d66",
+      "label": "kill TV"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/14.mp3",
+      "sha256": "f5933cd6feb36f8c98d2b913a4d614193879cc56b0b7e4dfb675d38df381de7a",
+      "label": "knife no mod"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/15.wav",
+      "sha256": "8019cefd9b0e9984ef28fe25f74610c093a09188abce8741dba735837f452ae3",
+      "label": "know you master"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/16.wav",
+      "sha256": "1357893cb8632fad94d11f79fc134266855618069aef37df3c767af9c0118784",
+      "label": "merger_6"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/17.wav",
+      "sha256": "720534caab1828894ddfc92427af3b17652b40494596085e68204ad608801605",
+      "label": "move for me atmospheric"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/18.wav",
+      "sha256": "175acb187f1930f60444940cd9e7a643a4cc18bf7ba72e6cc51328da7fd27005",
+      "label": "mylove_15"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/19.wav",
+      "sha256": "231d310d6b4e540d6493b31df8f5d32b8d4bbe11f269fc6dd36b78fb6fceae75",
+      "label": "mymind_6"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/20.wav",
+      "sha256": "2a0d7cc83048be7a8b163753d692fdf955b8dbd6ca0670422d1b48ff11bb6d4b",
+      "label": "new house faded_5"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/21.wav",
+      "sha256": "fbad7c35a00176c498d5ee9f6705d0d6cc0206e16dafa10e7fde3871b5d2f359",
+      "label": "oreo remix_5"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/22.wav",
+      "sha256": "3794d7275de65321dcb5a5bc88a6900f53a1460ed4398b8fe61a95e1956f45e2",
+      "label": "where do the monsters go clip"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/23.mp3",
+      "sha256": "9e9f40a391a4c3f107a547d9e5dafb93f088c02288110d16d49b44d59bbf35df",
+      "label": "where do the monsters go_2"
+    },
+    {
+      "input_id": "sour-sides-audio/originals/24.wav",
+      "sha256": "58b3f02b015bb4d21a0898f4590aee0a724d1ab4656905b627e5642de9229154",
+      "label": "wonder remix_3"
+    }
+  ]
+}

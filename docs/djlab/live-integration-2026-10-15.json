@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-15T15:54:35Z",
+  "method": "real authenticated loopback HTTP",
+  "track_count": 91,
+  "measured_track_id": "trk_6881dabe87a539f675268509",
+  "coverage": {
+    "analyzed_seconds": 158.427302,
+    "container_duration_tolerance_seconds": 0.05,
+    "full_track": true,
+    "intervals_seconds": [
+      [
+        0,
+        158.427302
+      ]
+    ],
+    "method": "contiguous_bounded_decoding_30_second_windows",
+    "source_duration_seconds": 158.427302
+  },
+  "waveform_frames": 3169,
+  "energy": {
+    "method": "djlab_energy_v1",
+    "range": [
+      0,
+      100
+    ],
+    "value": 69.729,
+    "verified": false
+  },
+  "cue_suggestions": 8,
+  "manual_edits_preserved": true,
+  "nested_playlists_preserved": true,
+  "short_plan_warning_verified": true,
+  "plan_id": "plan_3417e1c6050fb1d77d0de97b",
+  "rekordbox_export": {
+    "bytes": 951,
+    "sha256": "45c2c50b3e4fb9d36fca904311095e114a419b146ac8707dc7325942b60cb135",
+    "markers": 2,
+    "beatgrid_entries": 0,
+    "native_import_verified": false
+  },
+  "cached_research": {
+    "status": "ok",
+    "candidate_count": 1,
+    "raw_response_sha256": "38d86e6c7040cf0fc66f02911b82db6f134e233c432e1e4a1d6efc1e0491ba2e"
+  },
+  "external_research_request_performed": false,
+  "v2_browser_visual_review": "blocked by Safari AppleEvent timeout; earlier v1 playback/edits/export verified",
+  "source_files": {
+    "djlab/__init__.py": "ed89cf845bf927c5a9d3325cf05d2d8c54bebcb9bd861b63a68fc1f7ec095b22",
+    "djlab/__main__.py": "948fce636b59c6e48267d12687b747519ca4dedd76839872b212cc1e4f809292",
+    "djlab/analysis_import.py": "037a924990beba92f4ddbdd346e78a2201a29e86d952cbff30cb47d380a22d43",
+    "djlab/evidence.py": "b66bf6f75a50a473e299dad95019fb822aac2e46e977692c2ff26661eea9842f",
+    "djlab/exports.py": "861cdf937caecaad01495537f3e059d14f37d752ca4d9c418a8f6f44258243c7",
+    "djlab/library.py": "088edc17be9a247a68fa1a49fcb65a00ed9886a79c25da2384b6c224944310fb",
+    "djlab/planning.py": "c6448ef1ea9f7606286d72e7925c0a839d07ca156457903be499d06133487228",
+    "djlab/research.py": "f51b695065405bb74da2e95695d7806b2ccfb25c8dc72b4c511cb9349eaf0c60",
+    "djlab/server.py": "01eac27a8934beb19a7dfdb4fd9960f370ccddcd1b474c847326cd8afb1c90ac"
+  }
+}

@@ -1,0 +1,869 @@
+[
+  {
+    "request": {
+      "request_id": "sour-sides-analysis-soundcloud-1-v1",
+      "actor": "codex-sour-sides-audio",
+      "params": {
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "manifest_input_id": "sour-sides-audio/analysis-soundcloud-1.json",
+          "manifest_sha256": "9b8e40b9148e6d4651d430e5d571b51513922ad24dec80b64a1a5676dd0396d7",
+          "output_name": "analysis-soundcloud-1.json",
+          "timeout_sec": 1800
+        }
+      }
+    },
+    "response": {
+      "command_id": "cmd_ae2857e88c2b450c835645029b505a17",
+      "ok": true,
+      "result": {
+        "actor": "codex-sour-sides-audio",
+        "artifacts": [],
+        "completed_at": null,
+        "created_at": "2026-10-13T01:13:41.714579+00:00",
+        "error": null,
+        "exit_code": null,
+        "input_sha256": "9b8e40b9148e6d4651d430e5d571b51513922ad24dec80b64a1a5676dd0396d7",
+        "job_id": "wrk_5f0179248c0343cc8513b1bc90416f82",
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "expected_duration_seconds": null,
+          "manifest": {
+            "analysis_seconds": 180,
+            "contract": "orion_harmonic_analysis_v1",
+            "tracks": [
+              {
+                "input_id": "sour-sides-audio/soundcloud/01.mp3",
+                "label": "AENSO - RQUNY - COME SELEKTA (AENSO REMIX)",
+                "sha256": "832c56daff6d22c845ae008a0566a1c314348289b123a12aa5a87c18ab6bac46"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/02.mp3",
+                "label": "Automhate - AUTOMHATE - HEAT VISION",
+                "sha256": "cb58447656cc9555d5c7112333cae79498473ba53f4637e544fb67edf2e77769"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/03.mp3",
+                "label": "Aweminus - Leotrix - Hive Bounce (Aweminus Remix) [Patreon]",
+                "sha256": "148f72a3d32f8f4c0a5936b4590ebabc87b576d71e22a90718877ac47724da3d"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/04.mp3",
+                "label": "BAHAMUT - UP THE JAM [FREE DOWNLOAD]",
+                "sha256": "0c04c6e30ba529838a2aee11cf86fd714a0e03d819dfa338f02bbe965debfa88"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/05.mp3",
+                "label": "BANNED WRLD RADIO - DD01252026 045",
+                "sha256": "c0dee9eb00903c4b47a1359603e2c3e646bc453b80b56919dd11a8ff4b18e73e"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/06.mp3",
+                "label": "BEEGURTT - Two pump chump [FREE DL]",
+                "sha256": "cbf954cf32127c81e76d04f6dddcd92b7192894fd0304f68d43a77d990f47610"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/07.mp3",
+                "label": "Beat Intelligence Network - Akeos - Injury Detail",
+                "sha256": "4df9b3260a4c43a2f7fdec215068a9e8f6622bbc19eba3ae0821a5cdf55c3663"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/08.mp3",
+                "label": "Blankface - BLANKFACE - DOG PUKE",
+                "sha256": "6a4ff6e4a444b67ae772e34e3c298ffea91bcd20007d810e492684dcecdd44a9"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/09.mp3",
+                "label": "Breathworkz - Breathworkz Live @ SoundHaven 2025",
+                "sha256": "39dd1df5dcec5c506f383900aec722457e69cf6ff54e0bbacd4acb8c5f11b44e"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/10.mp3",
+                "label": "CA\u030aARL - CA\u030aARL @ CYBE LAUNCH PARTY - SALOON, TOKYO",
+                "sha256": "3cc922ac1057b4c71965e0594c55acd24118c9cc1a9cb839bcaa306414cb6791"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/11.mp3",
+                "label": "Decimate - Decimate - Off The Rails",
+                "sha256": "c3366290019adbfca2745d0d268dca8590793888de80e28fb984f3b718fd57fe"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/12.mp3",
+                "label": "Devath - 2026 SHOWCASE",
+                "sha256": "836a3ba28cc827604da6c0b2f7e9422150cc0effd8f5251df364768c271741eb"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/13.mp3",
+                "label": "Dubstep FBI - SUBFILTRONIK - Riot Control Radio 142",
+                "sha256": "830ac9450a8e5515948de014aa7f8733bf40cc6dfdecf0a30086cee3db81408e"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/14.mp3",
+                "label": "Emplexx - Kill 'em with Moe",
+                "sha256": "87ef950e5daec039e01630da97c06fa5db078fcd64b36185afa2573254566674"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/15.mp3",
+                "label": "Emplexx - Mord Fustang - Pop feat. LIINKS [Emplexx Flip]",
+                "sha256": "da6a20327e34f2b9eb59196c55d7cfd1486c3c147b3faec7741b837efc773115"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/16.mp3",
+                "label": "Exobolt - THUNDERCLAP",
+                "sha256": "cbf1368b2ba7cf9e6697a016b3203617f49f9344dcff3e9bf451588d6f65d186"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/17.mp3",
+                "label": "FEEL SUITE - SAMPHA - INDECISION (FEEL SUITE FLIP)",
+                "sha256": "76289559f9edd5350dd2d656c42af012ba8cbe915f3637617742f8b06a93e736"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/18.mp3",
+                "label": "FUTSU - INFEKT - REWIND (FUTSU REMIX) (FREE DL)",
+                "sha256": "810b881fe05f9ede1cbdbeea9f1774ce288b7e30d321698e59a3e0f966381310"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/19.mp3",
+                "label": "Full Flex Audio - RQUNY - COME SELEKTA (Kretoal Remix)",
+                "sha256": "26f6a5c4b1efe12ec5b2b39d87f18c9d17597ac50336dcf6a78266ce8f212afc"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/20.mp3",
+                "label": "JOUST - JOUST - ANVIL (FREE)",
+                "sha256": "808c0d2e4b72cd6f9623e4a907cd8dec8f6b621989bd28a4d5f2a00c35842749"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/21.mp3",
+                "label": "JoeB - Power Drive",
+                "sha256": "d5e2baa73e54864e7aa4ddf7a1ae855ec71a8363fc9c9d0885b68b0fe56a3426"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/22.mp3",
+                "label": "K!NDLY - K!NDLY - 2026 SHOWCASE",
+                "sha256": "26408cc7b5f8b05bdf76577ba4b710370babf09329c5ff6bdb69ed0ceabf7029"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/23.mp3",
+                "label": "KRISCHVN - Fried",
+                "sha256": "c4943391f48c7adb2f7ca5fed6da01e77cc91bba2374ef7eeccfb022f09114e1"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/24.mp3",
+                "label": "KUCES - KUCES - Calling",
+                "sha256": "93ba6c95bb6a9a17aef0e0ccddf87eb48335a25541f69f5829662f5314301b9c"
+              }
+            ]
+          },
+          "manifest_input_id": "sour-sides-audio/analysis-soundcloud-1.json",
+          "manifest_sha256": "9b8e40b9148e6d4651d430e5d571b51513922ad24dec80b64a1a5676dd0396d7",
+          "output_name": "analysis-soundcloud-1.json",
+          "timeout_sec": 1800
+        },
+        "pid": 98652,
+        "placement": {
+          "device": "orion",
+          "reason": "orion_preferred:audio.harmonic_analyze",
+          "resource_profile": "cpu-heavy"
+        },
+        "request_id": "sour-sides-analysis-soundcloud-1-v1",
+        "required_vram_mb": 0,
+        "resource_after": null,
+        "resource_before": {
+          "collected_at": "2026-10-13T01:13:42.685933+00:00",
+          "cpu_utilization_percent": 0.0,
+          "disk_free_bytes": 3295310512128,
+          "disk_free_gb": 3069.0,
+          "gpu": {
+            "available": true,
+            "gpus": [
+              {
+                "index": 0,
+                "memory_free_mb": 9687,
+                "memory_total_mb": 12282,
+                "name": "NVIDIA GeForce RTX 4070 SUPER",
+                "utilization_percent": 0
+              }
+            ],
+            "reason": null
+          },
+          "memory_available_bytes": 26330267648,
+          "memory_available_gb": 24.52
+        },
+        "retry_of": null,
+        "runtime": {
+          "audio_worker_sha256": "4462cad7b66ac4c123f1cdd29e0f51c5615865d249243358be942ea1b43a0ad5",
+          "downloads_allowed": false,
+          "engine": "numpy-scipy-stft-autocorrelation-v1",
+          "python": "C:\\Users\\Isaia\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+          "rights_verified": false,
+          "tempo_and_key_are_estimates": true
+        },
+        "schema_version": "1.0",
+        "source_revision": null,
+        "started_at": "2026-10-13T01:13:44.859687+00:00",
+        "status": "running",
+        "updated_at": "2026-10-13T01:13:45.744584+00:00",
+        "worker_code_sha256": "124889d7a8ebd193e917b3b45c06fe06a5dc7a94721db8472e8aa294ec16fc88"
+      }
+    }
+  },
+  {
+    "request": {
+      "request_id": "sour-sides-analysis-soundcloud-2-v1",
+      "actor": "codex-sour-sides-audio",
+      "params": {
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "manifest_input_id": "sour-sides-audio/analysis-soundcloud-2.json",
+          "manifest_sha256": "2ec47e885389df94cc203ae7a1cffc8dc8a29dc3cd43f8653f568ecc6d89a0fe",
+          "output_name": "analysis-soundcloud-2.json",
+          "timeout_sec": 1800
+        }
+      }
+    },
+    "response": {
+      "command_id": "cmd_0e7c27ec4c064d52a5f0a34c507945c2",
+      "ok": true,
+      "result": {
+        "actor": "codex-sour-sides-audio",
+        "artifacts": [],
+        "completed_at": null,
+        "created_at": "2026-10-13T01:14:28.193662+00:00",
+        "error": null,
+        "exit_code": null,
+        "input_sha256": "2ec47e885389df94cc203ae7a1cffc8dc8a29dc3cd43f8653f568ecc6d89a0fe",
+        "job_id": "wrk_31c7a1fcd92a4288910e9b6303ef31d8",
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "expected_duration_seconds": null,
+          "manifest": {
+            "analysis_seconds": 180,
+            "contract": "orion_harmonic_analysis_v1",
+            "tracks": [
+              {
+                "input_id": "sour-sides-audio/soundcloud/25.mp3",
+                "label": "KUCES - KUCES - Heartache",
+                "sha256": "4e9d6fe8d9b0104a7f599d7c4350fc4ab9adb37af166f1b31617606a9a48a359"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/26.mp3",
+                "label": "LAZERBLUE \u202e - RQUNY - COME SELEKTA [LAZERBLUE REMIX]",
+                "sha256": "60e20a1087dfb30dea227c69e72e711137ff774f77e2764970aef87cb09b8b97"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/27.mp3",
+                "label": "Leotrix - Fighter Pilot",
+                "sha256": "d236569f782b2501f37e84fe0594fbb9b92779913c353f9b6c72f4b5fe06e0e8"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/28.mp3",
+                "label": "Leotrix - Preach",
+                "sha256": "94c9be58415240bc6ab5b6b2e63020468d3a40a2eb5fbd26a67fb9d5c0409b25"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/29.mp3",
+                "label": "Luca - RQUNY - COME SELEKTA (Luca Remix)",
+                "sha256": "a6c588167524e8985dc51888dd269cbfed56e67545b0bd79370fc86c25db3486"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/30.mp3",
+                "label": "MADCORE - MADCORE - Life That I Lead",
+                "sha256": "31c43395b2a038d3a05c7b557b576e51f4ad5827ceb194f035bb3b1bb571e558"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/31.mp3",
+                "label": "MOODY GOOD - Humid",
+                "sha256": "8778fbf0d4be5b827ad689c1e569c77b66c310836dd96de04cadda68d3aa87e8"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/32.mp3",
+                "label": "Maylofy - Why won't you let me go\uff1f  - clip -",
+                "sha256": "cf3db13fb1ec4e20cb1f0bfb52b2f2ba8fbe56d8d4da6377ff445f4f727f7f61"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/33.mp3",
+                "label": "Mile32 - Mile32 - Challenger (Feat. Fugzi)",
+                "sha256": "4ee45a7c0b1b1cb0de3faa7700200554599f1778adce4b8ec24b57d7a63d768b"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/34.mp3",
+                "label": "MrKoolTrix - Vanatice - Gemini (MrKoolTrix Remix)",
+                "sha256": "bea9ea1a7b138f015a2e37f6c5503f593499a9a35e7d6ad45dfb1801d1441f5d"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/35.mp3",
+                "label": "NIMH - Rotten",
+                "sha256": "070abc2489eaa69d9b7a77848df8c1fdb79dd427a8cb6551f535f63bfac8c1ac"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/36.mp3",
+                "label": "Primal Rights - FORTRESS",
+                "sha256": "ea4572515320da9a3a00ba471f28e147374866983d8b0ae3dfad997ea563ec51"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/37.mp3",
+                "label": "RAMSAY - RAMSAY - DAGGERS",
+                "sha256": "a9dc091b9c4e7a20452cbae9fc132925bbd72b11bd5288da57e2ff55452d46fc"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/38.mp3",
+                "label": "RIOT TEN - PUMP x PREGAME MINI MIX SERIES 001",
+                "sha256": "1c8de488219d9230cb1af1120b715d5e7af07078721e32e5633e3d3ebff53708"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/39.mp3",
+                "label": "Rebo Band - Vengeance",
+                "sha256": "8049e86609c783a78475059d324ee9314710f2b35665a05331a54672678b7df8"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/40.mp3",
+                "label": "SISTO - SISTO - DAMNATION",
+                "sha256": "75997c83b735b756405d9c48b7eae53399c4f9c0f215d32addd975cfbac10ea1"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/41.mp3",
+                "label": "SPACE LACES - Space Laces, Dillon Francis - Staxx",
+                "sha256": "9d025640457b075f105d18515fc5bb43e329b8817d1dc2b5783b3f5947ac12d6"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/42.mp3",
+                "label": "SPLASH ONE - rquny - COME SELEKTA [SPLASH ONE REMIX]",
+                "sha256": "84e561119bbdadac9fb09e6a10681f1795dacc30796c1959caa25575e5368625"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/43.mp3",
+                "label": "Sample Bandit - Sample Bandit @ Noveci BD Event [CLASSIC BASS 2026 \ud83d\ude0e]",
+                "sha256": "73949454663622b61be8fcaceb857b59bdcddc9ae0b6e1a9ec024921eba9763f"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/44.mp3",
+                "label": "Savage Society Records - CLUB ANTSY - SPELLCASTER",
+                "sha256": "a1685af01114ca59bc2827d368bbb1728a1909d37f5fc9a1b5c73929d6b22bf1"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/45.mp3",
+                "label": "Sharks - 2026 SHOWCASE",
+                "sha256": "0f13dabfc6acf3983b1ea7c74eb51b6245c4ef5b53ae2098972da19b78f854ff"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/46.mp3",
+                "label": "Storyboard - storyboard - deep blue sea",
+                "sha256": "10452217b62788fcf85022783d6b367a4828cdf92f520a4aad6187915111eee9"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/47.mp3",
+                "label": "The Gradient Perspective - Breathworkz x Packet Loss - Keep Me Safe",
+                "sha256": "9ce7cb4f3f68402de1c0ea557f0ee1cae0b6c64064729062e1bf6fac89d4ff65"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/48.mp3",
+                "label": "Unreleased Fire - INFEKT & Modal Nodes - Infected Demo [Released]",
+                "sha256": "c48df56534e989327030133291d2f6f07f47225c2e888b5826705dda96e52cef"
+              }
+            ]
+          },
+          "manifest_input_id": "sour-sides-audio/analysis-soundcloud-2.json",
+          "manifest_sha256": "2ec47e885389df94cc203ae7a1cffc8dc8a29dc3cd43f8653f568ecc6d89a0fe",
+          "output_name": "analysis-soundcloud-2.json",
+          "timeout_sec": 1800
+        },
+        "pid": null,
+        "placement": {
+          "device": "orion",
+          "reason": "orion_preferred:audio.harmonic_analyze",
+          "resource_profile": "cpu-heavy"
+        },
+        "request_id": "sour-sides-analysis-soundcloud-2-v1",
+        "required_vram_mb": 0,
+        "resource_after": null,
+        "resource_before": {
+          "collected_at": "2026-10-13T01:14:26.278180+00:00",
+          "cpu_utilization_percent": 28.0,
+          "disk_free_bytes": 3295306317824,
+          "disk_free_gb": 3068.99,
+          "gpu": {
+            "available": true,
+            "gpus": [
+              {
+                "index": 0,
+                "memory_free_mb": 9672,
+                "memory_total_mb": 12282,
+                "name": "NVIDIA GeForce RTX 4070 SUPER",
+                "utilization_percent": 0
+              }
+            ],
+            "reason": null
+          },
+          "memory_available_bytes": 27488063488,
+          "memory_available_gb": 25.6
+        },
+        "retry_of": null,
+        "runtime": {},
+        "schema_version": "1.0",
+        "source_revision": null,
+        "started_at": null,
+        "status": "queued",
+        "updated_at": "2026-10-13T01:14:28.222461+00:00",
+        "worker_code_sha256": "124889d7a8ebd193e917b3b45c06fe06a5dc7a94721db8472e8aa294ec16fc88"
+      }
+    }
+  },
+  {
+    "request": {
+      "request_id": "sour-sides-analysis-soundcloud-3-v1",
+      "actor": "codex-sour-sides-audio",
+      "params": {
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "manifest_input_id": "sour-sides-audio/analysis-soundcloud-3.json",
+          "manifest_sha256": "a4cd8506c0962a4eb1231cd94f926916aa681c2dd1c954abc18fe2c2a940cb42",
+          "output_name": "analysis-soundcloud-3.json",
+          "timeout_sec": 1800
+        }
+      }
+    },
+    "response": {
+      "command_id": "cmd_f1cde3650d5f4114ade5db4a00723e88",
+      "ok": true,
+      "result": {
+        "actor": "codex-sour-sides-audio",
+        "artifacts": [],
+        "completed_at": null,
+        "created_at": "2026-10-13T01:14:32.667429+00:00",
+        "error": null,
+        "exit_code": null,
+        "input_sha256": "a4cd8506c0962a4eb1231cd94f926916aa681c2dd1c954abc18fe2c2a940cb42",
+        "job_id": "wrk_17160540ec68406589d8ce4ed8987dc6",
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "expected_duration_seconds": null,
+          "manifest": {
+            "analysis_seconds": 180,
+            "contract": "orion_harmonic_analysis_v1",
+            "tracks": [
+              {
+                "input_id": "sour-sides-audio/soundcloud/49.mp3",
+                "label": "XUMA\u00b2 - TO EXCEED LIMITS YOU NEVER KNEW EXISTED",
+                "sha256": "adff080fe96fa9ce8d7516ebcc05a18fdf983330be9c59e45a859dc2ff5de6f2"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/50.mp3",
+                "label": "YAKZ - YAKZ - STUCK IN MY HEAD",
+                "sha256": "07026b95adc2b095eea799c0322d0aa88d6d3887fd2c0383434949ea5f337144"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/51.mp3",
+                "label": "beastboi. - G-CHECK w\u29f8 DEXAMP",
+                "sha256": "b2711542afc5b37296dab887bb3f2001a4fc44d638eea84007e3745a5582c391"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/52.mp3",
+                "label": "beastboi. - WORLD EATER",
+                "sha256": "5e4dae7a5b89ac9d3eff63d5c409542fd2953defbaf264e2f8f79daaef375026"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/53.mp3",
+                "label": "enum_ - Skrillex - Voltage (enum flip)",
+                "sha256": "ac6001677d452990c34f4a62b86267f41a15ae571cb715c9dff7f7b066f687d0"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/54.mp3",
+                "label": "euphee \u0398\u0394 - BLOCKU",
+                "sha256": "1596270006bda68905d63532b7c769c068375aced135dbefd173ce6124f2f210"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/55.mp3",
+                "label": "hakaii dubz - 2026 Showcase",
+                "sha256": "a8f165e420c4e1f427d302aab98070e81e74320bdc0736ba7f336cb2593b6d5f"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/56.mp3",
+                "label": "hax - giv",
+                "sha256": "11c37b7b138be5ee50a31fa26a20ffc6d077440d63f9ef3d48770625d0cfa23e"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/57.mp3",
+                "label": "junoes - by\uff1a moorekismet dollmaker tina#anc inno r000 yari 31sentinel greyrock wbe9i rimeren tainiy & me",
+                "sha256": "14d4d4f56bca623a99c1d065c6cbb5d96928f28fa2934868c235b87c9d198e0d"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/58.mp3",
+                "label": "jztincase! - silly man [FREE DL]",
+                "sha256": "2c8d36681506e7503d89704540d1c3d39b66159f66a23f743bc0ebaab596858e"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/59.mp3",
+                "label": "lingoturbo - RUN IT UP",
+                "sha256": "f9bfc949c2aafffe884719e1dcd4fbbc2bdb78c62e86c3ae9978eb5178a91301"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/60.mp3",
+                "label": "lucas - izadi - reality portal (edit)",
+                "sha256": "db14acd4d489aa4fe5fc16b21a8105e5c4b151887d183d8c907ef3505eacaf2a"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/61.mp3",
+                "label": "ohwait! - crazycauseiloveyou",
+                "sha256": "f185a2bcd9983f08ca4681608e93fe3fcbc8f761e16291f3a04adc3ec99d8ff3"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/62.mp3",
+                "label": "sensori - Aweminus - Riddim 4 Dummies (sensori flip) [200 FOLLOWER FREE DL]",
+                "sha256": "0f90df679e2141d75638d3f6a6d25e10f24f9be5d030658d814c41e3bbd44e4b"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/63.mp3",
+                "label": "skuz - jacket",
+                "sha256": "6e1e8be76c99132646d1759d0dd994329b26fcb711dcc92928a8fdeae1c36f1b"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/64.mp3",
+                "label": "unisixn - xxdays",
+                "sha256": "537851e243570a10217c7168c38bdb1fe2e98e1c6efed846cb6329c1f2171dce"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/65.mp3",
+                "label": "vyle - danza delle ombre",
+                "sha256": "cda5e6fac76d95866964939c9ef029e42b27e9ab05e671202b96c6fb546c670a"
+              },
+              {
+                "input_id": "sour-sides-audio/soundcloud/66.mp3",
+                "label": "vyle - leggero",
+                "sha256": "e4c6f484d40762a1c9c5b0725211ca3bdb477cd3bcd5d8076a2e6d7a860482a5"
+              }
+            ]
+          },
+          "manifest_input_id": "sour-sides-audio/analysis-soundcloud-3.json",
+          "manifest_sha256": "a4cd8506c0962a4eb1231cd94f926916aa681c2dd1c954abc18fe2c2a940cb42",
+          "output_name": "analysis-soundcloud-3.json",
+          "timeout_sec": 1800
+        },
+        "pid": null,
+        "placement": {
+          "device": "orion",
+          "reason": "orion_preferred:audio.harmonic_analyze",
+          "resource_profile": "cpu-heavy"
+        },
+        "request_id": "sour-sides-analysis-soundcloud-3-v1",
+        "required_vram_mb": 0,
+        "resource_after": null,
+        "resource_before": {
+          "collected_at": "2026-10-13T01:14:30.705959+00:00",
+          "cpu_utilization_percent": 23.0,
+          "disk_free_bytes": 3295293734912,
+          "disk_free_gb": 3068.98,
+          "gpu": {
+            "available": true,
+            "gpus": [
+              {
+                "index": 0,
+                "memory_free_mb": 9671,
+                "memory_total_mb": 12282,
+                "name": "NVIDIA GeForce RTX 4070 SUPER",
+                "utilization_percent": 0
+              }
+            ],
+            "reason": null
+          },
+          "memory_available_bytes": 27392393216,
+          "memory_available_gb": 25.51
+        },
+        "retry_of": null,
+        "runtime": {},
+        "schema_version": "1.0",
+        "source_revision": null,
+        "started_at": null,
+        "status": "queued",
+        "updated_at": "2026-10-13T01:14:32.690739+00:00",
+        "worker_code_sha256": "124889d7a8ebd193e917b3b45c06fe06a5dc7a94721db8472e8aa294ec16fc88"
+      }
+    }
+  },
+  {
+    "request": {
+      "request_id": "sour-sides-analysis-originals-1-v1",
+      "actor": "codex-sour-sides-audio",
+      "params": {
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "manifest_input_id": "sour-sides-audio/analysis-originals-1.json",
+          "manifest_sha256": "6a2d251a01cc2d3620a490a0a4b0f345c421dacd2d5bc67805751ac7f0f6ae9b",
+          "output_name": "analysis-originals-1.json",
+          "timeout_sec": 1800
+        }
+      }
+    },
+    "response": {
+      "command_id": "cmd_cf1486d56aeb4b9aaabf1e6b62745a29",
+      "ok": true,
+      "result": {
+        "actor": "codex-sour-sides-audio",
+        "artifacts": [],
+        "completed_at": null,
+        "created_at": "2026-10-13T01:14:36.452982+00:00",
+        "error": null,
+        "exit_code": null,
+        "input_sha256": "6a2d251a01cc2d3620a490a0a4b0f345c421dacd2d5bc67805751ac7f0f6ae9b",
+        "job_id": "wrk_6bca970c4fa5476f879d058b226963ec",
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "expected_duration_seconds": null,
+          "manifest": {
+            "analysis_seconds": 180,
+            "contract": "orion_harmonic_analysis_v1",
+            "tracks": [
+              {
+                "input_id": "sour-sides-audio/originals/01.wav",
+                "label": "01 adore vs leaves(1)",
+                "sha256": "6881dabe87a539f67526850904601cf2d18b7783bbd7264bce925cc763e2343f"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/02.wav",
+                "label": "2016 cram bam ",
+                "sha256": "159a8b2c802390c4107bce3d80906a00ea9ac699155db9a5b9cc678e1a9e7d8f"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/03.wav",
+                "label": "DAF_5",
+                "sha256": "383d7616a91b5a652811bbb7aa22c04b98a1167e0ccba8a869e30be549df4e9f"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/04.mp3",
+                "label": "FUCK ME vip",
+                "sha256": "152aecfdc16c25813b6b902e22683c1e837dfe19b60c9861e3ed7d33ad9d1380"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/05.mp3",
+                "label": "Kill them all full",
+                "sha256": "2e3a5b886afe5189da86d2e0b6a8ee40365bf51d5ad2089b30700b90268a74af"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/06.mp3",
+                "label": "Memories masterd",
+                "sha256": "10d0cdcd651e517b24a3927d38b4572f390b4a1c3e47945ca044629b54068e1c"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/07.mp3",
+                "label": "good start_6",
+                "sha256": "f05783a5abf92edd1ba77e3d570537949a0262213ac29e0a5ae74b4d1f112215"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/08.wav",
+                "label": "grey skies 9",
+                "sha256": "4a6ed33a73b238fccbebda7b92b16b0638b7b57c115deb5409dbb37515de0bdb"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/09.wav",
+                "label": "happy holloweend_8",
+                "sha256": "74f370edd2718efe17ab0edc3e1c823066fba1aac421106e1647813212a3256c"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/10.mp3",
+                "label": "i want that bass",
+                "sha256": "2b84bfb44f3a3481ed78425a0a09e95203e4201c48f9dcca11263c62f9336034"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/11.mp3",
+                "label": "infinite posiblities_7",
+                "sha256": "77765ff4a5c77590c2ce9ab8d6a4f3155a7ae24cfb0589ba02f86f2bfefbdc6f"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/12.wav",
+                "label": "isosceles pyramid",
+                "sha256": "991d7c7baf288bbb26396dfe8ad4ef15cad614cae95864e8b0703fed33ec3933"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/13.mp3",
+                "label": "kill TV",
+                "sha256": "15e8642c1c6e7e0b309773de3854758381c7a2d510fcaeaf9ef98b1597ca4d66"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/14.mp3",
+                "label": "knife no mod",
+                "sha256": "f5933cd6feb36f8c98d2b913a4d614193879cc56b0b7e4dfb675d38df381de7a"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/15.wav",
+                "label": "know you master",
+                "sha256": "8019cefd9b0e9984ef28fe25f74610c093a09188abce8741dba735837f452ae3"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/16.wav",
+                "label": "merger_6",
+                "sha256": "1357893cb8632fad94d11f79fc134266855618069aef37df3c767af9c0118784"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/17.wav",
+                "label": "move for me atmospheric",
+                "sha256": "720534caab1828894ddfc92427af3b17652b40494596085e68204ad608801605"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/18.wav",
+                "label": "mylove_15",
+                "sha256": "175acb187f1930f60444940cd9e7a643a4cc18bf7ba72e6cc51328da7fd27005"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/19.wav",
+                "label": "mymind_6",
+                "sha256": "231d310d6b4e540d6493b31df8f5d32b8d4bbe11f269fc6dd36b78fb6fceae75"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/20.wav",
+                "label": "new house faded_5",
+                "sha256": "2a0d7cc83048be7a8b163753d692fdf955b8dbd6ca0670422d1b48ff11bb6d4b"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/21.wav",
+                "label": "oreo remix_5",
+                "sha256": "fbad7c35a00176c498d5ee9f6705d0d6cc0206e16dafa10e7fde3871b5d2f359"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/22.wav",
+                "label": "where do the monsters go clip",
+                "sha256": "3794d7275de65321dcb5a5bc88a6900f53a1460ed4398b8fe61a95e1956f45e2"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/23.mp3",
+                "label": "where do the monsters go_2",
+                "sha256": "9e9f40a391a4c3f107a547d9e5dafb93f088c02288110d16d49b44d59bbf35df"
+              },
+              {
+                "input_id": "sour-sides-audio/originals/24.wav",
+                "label": "wonder remix_3",
+                "sha256": "58b3f02b015bb4d21a0898f4590aee0a724d1ab4656905b627e5642de9229154"
+              }
+            ]
+          },
+          "manifest_input_id": "sour-sides-audio/analysis-originals-1.json",
+          "manifest_sha256": "6a2d251a01cc2d3620a490a0a4b0f345c421dacd2d5bc67805751ac7f0f6ae9b",
+          "output_name": "analysis-originals-1.json",
+          "timeout_sec": 1800
+        },
+        "pid": null,
+        "placement": {
+          "device": "orion",
+          "reason": "orion_preferred:audio.harmonic_analyze",
+          "resource_profile": "cpu-heavy"
+        },
+        "request_id": "sour-sides-analysis-originals-1-v1",
+        "required_vram_mb": 0,
+        "resource_after": null,
+        "resource_before": {
+          "collected_at": "2026-10-13T01:14:34.784452+00:00",
+          "cpu_utilization_percent": 49.0,
+          "disk_free_bytes": 3295280103424,
+          "disk_free_gb": 3068.97,
+          "gpu": {
+            "available": true,
+            "gpus": [
+              {
+                "index": 0,
+                "memory_free_mb": 9687,
+                "memory_total_mb": 12282,
+                "name": "NVIDIA GeForce RTX 4070 SUPER",
+                "utilization_percent": 0
+              }
+            ],
+            "reason": null
+          },
+          "memory_available_bytes": 26840997888,
+          "memory_available_gb": 25.0
+        },
+        "retry_of": null,
+        "runtime": {},
+        "schema_version": "1.0",
+        "source_revision": null,
+        "started_at": null,
+        "status": "queued",
+        "updated_at": "2026-10-13T01:14:36.476994+00:00",
+        "worker_code_sha256": "124889d7a8ebd193e917b3b45c06fe06a5dc7a94721db8472e8aa294ec16fc88"
+      }
+    }
+  },
+  {
+    "request": {
+      "request_id": "sour-sides-analysis-originals-2-v1",
+      "actor": "codex-sour-sides-audio",
+      "params": {
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "manifest_input_id": "sour-sides-audio/analysis-originals-2.json",
+          "manifest_sha256": "2e46588226698034379cf59f6eed15d2fafb11faef9f92e6c86222e4ab75b07a",
+          "output_name": "analysis-originals-2.json",
+          "timeout_sec": 1800
+        }
+      }
+    },
+    "response": {
+      "command_id": "cmd_e4856b76a30e4de8a44e92eec8d2b4be",
+      "ok": true,
+      "result": {
+        "actor": "codex-sour-sides-audio",
+        "artifacts": [],
+        "completed_at": null,
+        "created_at": "2026-10-13T01:14:39.511573+00:00",
+        "error": null,
+        "exit_code": null,
+        "input_sha256": "2e46588226698034379cf59f6eed15d2fafb11faef9f92e6c86222e4ab75b07a",
+        "job_id": "wrk_652159f334e3402ba39d04e438887de3",
+        "job_type": "audio.harmonic_analyze",
+        "params": {
+          "expected_duration_seconds": null,
+          "manifest": {
+            "analysis_seconds": 180,
+            "contract": "orion_harmonic_analysis_v1",
+            "tracks": [
+              {
+                "input_id": "sour-sides-audio/originals/25.wav",
+                "label": "Sour Sides - Kill Them all",
+                "sha256": "46c3d4bc0eb59ed325aefd4e48d2bb3fef7d6b047455be17b4ac1bc4aedb7677"
+              }
+            ]
+          },
+          "manifest_input_id": "sour-sides-audio/analysis-originals-2.json",
+          "manifest_sha256": "2e46588226698034379cf59f6eed15d2fafb11faef9f92e6c86222e4ab75b07a",
+          "output_name": "analysis-originals-2.json",
+          "timeout_sec": 1800
+        },
+        "pid": null,
+        "placement": {
+          "device": "orion",
+          "reason": "orion_preferred:audio.harmonic_analyze",
+          "resource_profile": "cpu-heavy"
+        },
+        "request_id": "sour-sides-analysis-originals-2-v1",
+        "required_vram_mb": 0,
+        "resource_after": null,
+        "resource_before": {
+          "collected_at": "2026-10-13T01:14:37.539488+00:00",
+          "cpu_utilization_percent": 14.0,
+          "disk_free_bytes": 3295263326208,
+          "disk_free_gb": 3068.95,
+          "gpu": {
+            "available": true,
+            "gpus": [
+              {
+                "index": 0,
+                "memory_free_mb": 9687,
+                "memory_total_mb": 12282,
+                "name": "NVIDIA GeForce RTX 4070 SUPER",
+                "utilization_percent": 0
+              }
+            ],
+            "reason": null
+          },
+          "memory_available_bytes": 27981950976,
+          "memory_available_gb": 26.06
+        },
+        "retry_of": null,
+        "runtime": {},
+        "schema_version": "1.0",
+        "source_revision": null,
+        "started_at": null,
+        "status": "queued",
+        "updated_at": "2026-10-13T01:14:39.535362+00:00",
+        "worker_code_sha256": "124889d7a8ebd193e917b3b45c06fe06a5dc7a94721db8472e8aa294ec16fc88"
+      }
+    }
+  }
+]

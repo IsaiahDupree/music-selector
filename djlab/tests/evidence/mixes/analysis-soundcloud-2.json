@@ -1,0 +1,126 @@
+{
+  "contract": "orion_harmonic_analysis_v1",
+  "analysis_seconds": 180,
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/soundcloud/25.mp3",
+      "sha256": "4e9d6fe8d9b0104a7f599d7c4350fc4ab9adb37af166f1b31617606a9a48a359",
+      "label": "KUCES - KUCES - Heartache"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/26.mp3",
+      "sha256": "60e20a1087dfb30dea227c69e72e711137ff774f77e2764970aef87cb09b8b97",
+      "label": "LAZERBLUE ‮ - RQUNY - COME SELEKTA [LAZERBLUE REMIX]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/27.mp3",
+      "sha256": "d236569f782b2501f37e84fe0594fbb9b92779913c353f9b6c72f4b5fe06e0e8",
+      "label": "Leotrix - Fighter Pilot"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/28.mp3",
+      "sha256": "94c9be58415240bc6ab5b6b2e63020468d3a40a2eb5fbd26a67fb9d5c0409b25",
+      "label": "Leotrix - Preach"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/29.mp3",
+      "sha256": "a6c588167524e8985dc51888dd269cbfed56e67545b0bd79370fc86c25db3486",
+      "label": "Luca - RQUNY - COME SELEKTA (Luca Remix)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/30.mp3",
+      "sha256": "31c43395b2a038d3a05c7b557b576e51f4ad5827ceb194f035bb3b1bb571e558",
+      "label": "MADCORE - MADCORE - Life That I Lead"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/31.mp3",
+      "sha256": "8778fbf0d4be5b827ad689c1e569c77b66c310836dd96de04cadda68d3aa87e8",
+      "label": "MOODY GOOD - Humid"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/32.mp3",
+      "sha256": "cf3db13fb1ec4e20cb1f0bfb52b2f2ba8fbe56d8d4da6377ff445f4f727f7f61",
+      "label": "Maylofy - Why won't you let me go？  - clip -"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/33.mp3",
+      "sha256": "4ee45a7c0b1b1cb0de3faa7700200554599f1778adce4b8ec24b57d7a63d768b",
+      "label": "Mile32 - Mile32 - Challenger (Feat. Fugzi)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/34.mp3",
+      "sha256": "bea9ea1a7b138f015a2e37f6c5503f593499a9a35e7d6ad45dfb1801d1441f5d",
+      "label": "MrKoolTrix - Vanatice - Gemini (MrKoolTrix Remix)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/35.mp3",
+      "sha256": "070abc2489eaa69d9b7a77848df8c1fdb79dd427a8cb6551f535f63bfac8c1ac",
+      "label": "NIMH - Rotten"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/36.mp3",
+      "sha256": "ea4572515320da9a3a00ba471f28e147374866983d8b0ae3dfad997ea563ec51",
+      "label": "Primal Rights - FORTRESS"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/37.mp3",
+      "sha256": "a9dc091b9c4e7a20452cbae9fc132925bbd72b11bd5288da57e2ff55452d46fc",
+      "label": "RAMSAY - RAMSAY - DAGGERS"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/38.mp3",
+      "sha256": "1c8de488219d9230cb1af1120b715d5e7af07078721e32e5633e3d3ebff53708",
+      "label": "RIOT TEN - PUMP x PREGAME MINI MIX SERIES 001"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/39.mp3",
+      "sha256": "8049e86609c783a78475059d324ee9314710f2b35665a05331a54672678b7df8",
+      "label": "Rebo Band - Vengeance"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/40.mp3",
+      "sha256": "75997c83b735b756405d9c48b7eae53399c4f9c0f215d32addd975cfbac10ea1",
+      "label": "SISTO - SISTO - DAMNATION"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/41.mp3",
+      "sha256": "9d025640457b075f105d18515fc5bb43e329b8817d1dc2b5783b3f5947ac12d6",
+      "label": "SPACE LACES - Space Laces, Dillon Francis - Staxx"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/42.mp3",
+      "sha256": "84e561119bbdadac9fb09e6a10681f1795dacc30796c1959caa25575e5368625",
+      "label": "SPLASH ONE - rquny - COME SELEKTA [SPLASH ONE REMIX]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/43.mp3",
+      "sha256": "73949454663622b61be8fcaceb857b59bdcddc9ae0b6e1a9ec024921eba9763f",
+      "label": "Sample Bandit - Sample Bandit @ Noveci BD Event [CLASSIC BASS 2026 😎]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/44.mp3",
+      "sha256": "a1685af01114ca59bc2827d368bbb1728a1909d37f5fc9a1b5c73929d6b22bf1",
+      "label": "Savage Society Records - CLUB ANTSY - SPELLCASTER"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/45.mp3",
+      "sha256": "0f13dabfc6acf3983b1ea7c74eb51b6245c4ef5b53ae2098972da19b78f854ff",
+      "label": "Sharks - 2026 SHOWCASE"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/46.mp3",
+      "sha256": "10452217b62788fcf85022783d6b367a4828cdf92f520a4aad6187915111eee9",
+      "label": "Storyboard - storyboard - deep blue sea"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/47.mp3",
+      "sha256": "9ce7cb4f3f68402de1c0ea557f0ee1cae0b6c64064729062e1bf6fac89d4ff65",
+      "label": "The Gradient Perspective - Breathworkz x Packet Loss - Keep Me Safe"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/48.mp3",
+      "sha256": "c48df56534e989327030133291d2f6f07f47225c2e888b5826705dda96e52cef",
+      "label": "Unreleased Fire - INFEKT & Modal Nodes - Infected Demo [Released]"
+    }
+  ]
+}

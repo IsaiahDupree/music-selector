@@ -1,0 +1,126 @@
+{
+  "contract": "orion_harmonic_analysis_v1",
+  "analysis_seconds": 180,
+  "tracks": [
+    {
+      "input_id": "sour-sides-audio/soundcloud/01.mp3",
+      "sha256": "832c56daff6d22c845ae008a0566a1c314348289b123a12aa5a87c18ab6bac46",
+      "label": "AENSO - RQUNY - COME SELEKTA (AENSO REMIX)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/02.mp3",
+      "sha256": "cb58447656cc9555d5c7112333cae79498473ba53f4637e544fb67edf2e77769",
+      "label": "Automhate - AUTOMHATE - HEAT VISION"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/03.mp3",
+      "sha256": "148f72a3d32f8f4c0a5936b4590ebabc87b576d71e22a90718877ac47724da3d",
+      "label": "Aweminus - Leotrix - Hive Bounce (Aweminus Remix) [Patreon]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/04.mp3",
+      "sha256": "0c04c6e30ba529838a2aee11cf86fd714a0e03d819dfa338f02bbe965debfa88",
+      "label": "BAHAMUT - UP THE JAM [FREE DOWNLOAD]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/05.mp3",
+      "sha256": "c0dee9eb00903c4b47a1359603e2c3e646bc453b80b56919dd11a8ff4b18e73e",
+      "label": "BANNED WRLD RADIO - DD01252026 045"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/06.mp3",
+      "sha256": "cbf954cf32127c81e76d04f6dddcd92b7192894fd0304f68d43a77d990f47610",
+      "label": "BEEGURTT - Two pump chump [FREE DL]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/07.mp3",
+      "sha256": "4df9b3260a4c43a2f7fdec215068a9e8f6622bbc19eba3ae0821a5cdf55c3663",
+      "label": "Beat Intelligence Network - Akeos - Injury Detail"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/08.mp3",
+      "sha256": "6a4ff6e4a444b67ae772e34e3c298ffea91bcd20007d810e492684dcecdd44a9",
+      "label": "Blankface - BLANKFACE - DOG PUKE"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/09.mp3",
+      "sha256": "39dd1df5dcec5c506f383900aec722457e69cf6ff54e0bbacd4acb8c5f11b44e",
+      "label": "Breathworkz - Breathworkz Live @ SoundHaven 2025"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/10.mp3",
+      "sha256": "3cc922ac1057b4c71965e0594c55acd24118c9cc1a9cb839bcaa306414cb6791",
+      "label": "CÅARL - CÅARL @ CYBE LAUNCH PARTY - SALOON, TOKYO"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/11.mp3",
+      "sha256": "c3366290019adbfca2745d0d268dca8590793888de80e28fb984f3b718fd57fe",
+      "label": "Decimate - Decimate - Off The Rails"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/12.mp3",
+      "sha256": "836a3ba28cc827604da6c0b2f7e9422150cc0effd8f5251df364768c271741eb",
+      "label": "Devath - 2026 SHOWCASE"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/13.mp3",
+      "sha256": "830ac9450a8e5515948de014aa7f8733bf40cc6dfdecf0a30086cee3db81408e",
+      "label": "Dubstep FBI - SUBFILTRONIK - Riot Control Radio 142"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/14.mp3",
+      "sha256": "87ef950e5daec039e01630da97c06fa5db078fcd64b36185afa2573254566674",
+      "label": "Emplexx - Kill 'em with Moe"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/15.mp3",
+      "sha256": "da6a20327e34f2b9eb59196c55d7cfd1486c3c147b3faec7741b837efc773115",
+      "label": "Emplexx - Mord Fustang - Pop feat. LIINKS [Emplexx Flip]"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/16.mp3",
+      "sha256": "cbf1368b2ba7cf9e6697a016b3203617f49f9344dcff3e9bf451588d6f65d186",
+      "label": "Exobolt - THUNDERCLAP"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/17.mp3",
+      "sha256": "76289559f9edd5350dd2d656c42af012ba8cbe915f3637617742f8b06a93e736",
+      "label": "FEEL SUITE - SAMPHA - INDECISION (FEEL SUITE FLIP)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/18.mp3",
+      "sha256": "810b881fe05f9ede1cbdbeea9f1774ce288b7e30d321698e59a3e0f966381310",
+      "label": "FUTSU - INFEKT - REWIND (FUTSU REMIX) (FREE DL)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/19.mp3",
+      "sha256": "26f6a5c4b1efe12ec5b2b39d87f18c9d17597ac50336dcf6a78266ce8f212afc",
+      "label": "Full Flex Audio - RQUNY - COME SELEKTA (Kretoal Remix)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/20.mp3",
+      "sha256": "808c0d2e4b72cd6f9623e4a907cd8dec8f6b621989bd28a4d5f2a00c35842749",
+      "label": "JOUST - JOUST - ANVIL (FREE)"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/21.mp3",
+      "sha256": "d5e2baa73e54864e7aa4ddf7a1ae855ec71a8363fc9c9d0885b68b0fe56a3426",
+      "label": "JoeB - Power Drive"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/22.mp3",
+      "sha256": "26408cc7b5f8b05bdf76577ba4b710370babf09329c5ff6bdb69ed0ceabf7029",
+      "label": "K!NDLY - K!NDLY - 2026 SHOWCASE"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/23.mp3",
+      "sha256": "c4943391f48c7adb2f7ca5fed6da01e77cc91bba2374ef7eeccfb022f09114e1",
+      "label": "KRISCHVN - Fried"
+    },
+    {
+      "input_id": "sour-sides-audio/soundcloud/24.mp3",
+      "sha256": "93ba6c95bb6a9a17aef0e0ccddf87eb48335a25541f69f5829662f5314301b9c",
+      "label": "KUCES - KUCES - Calling"
+    }
+  ]
+}
